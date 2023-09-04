@@ -10,7 +10,7 @@ class Screen1ViewBody extends StatelessWidget {
       body: SingleChildScrollView(
         physics: const BouncingScrollPhysics(),
         child: Padding(
-          padding: const EdgeInsets.all(24),
+
           child: Column(
             crossAxisAlignment: CrossAxisAlignment.stretch,
             children: [
@@ -19,7 +19,7 @@ class Screen1ViewBody extends StatelessWidget {
                 textAlign: TextAlign.right,
                 style: Styles.textStyle28,
               ),
-              const SizedBox(
+
                 height: 15,
               ),
               Text(

@@ -43,7 +43,7 @@ class HomeViewBody extends StatelessWidget {
                 ],
               ),
             ),
-            const SliverToBoxAdapter(
+
               child: ScreensListView(),
             )
           ],
