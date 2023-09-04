@@ -36,10 +36,9 @@ class _SplashViewBodyState extends State<SplashViewBody>
     return Scaffold(
       body: Center(
         child: Column(
-          
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
-            Image.asset(AssetsData.logo),
+            Image.asset(Assets.imagesLogo),
             SlidingText(slidingAnimation: slidingAnimation),
           ],
         ),

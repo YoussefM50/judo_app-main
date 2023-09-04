@@ -8,16 +8,17 @@ class ScreensListView extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return ListView.builder( 
+    return ListView.builder(
       shrinkWrap: true,
       physics: const BouncingScrollPhysics(),
       itemBuilder: (context, index) {
         return GestureDetector(
           onTap: () {
-            GoRouter.of(context).push('/screen${index+1}View');
+            GoRouter.of(context).push('/screen${index + 1}View');
           },
           child: ScreensListViewItem(
             text: titlesListView[index],
+            image: images[index],
           ),
         );
       },
