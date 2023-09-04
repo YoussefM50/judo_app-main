@@ -10,7 +10,7 @@ class Screen1ViewBody extends StatelessWidget {
       body: SingleChildScrollView(
         physics: const BouncingScrollPhysics(),
         child: Padding(
-
+padding: EdgeInsets.all(8),
           child: Column(
             crossAxisAlignment: CrossAxisAlignment.stretch,
             children: [
@@ -19,7 +19,7 @@ class Screen1ViewBody extends StatelessWidget {
                 textAlign: TextAlign.right,
                 style: Styles.textStyle28,
               ),
-
+                  const SizedBox(
                 height: 15,
               ),
               Text(
@@ -246,11 +246,11 @@ class Screen1ViewBody extends StatelessWidget {
               Text(
                 '_ (1860) ولد الأستاذ جيجورو كانو مؤسس الجودو.\n_ (1880) عين جيجورو كانو مدير لجامعة طوكيو.\n_ (1882)تأسس معهد الكودوكان العالمي.\n_ (1886)انتشرت رياضة الجودو فى المدارس والجامعات اليابانية.\n_ (1910)وضعت خطة لتدريب وتعليم إعداد كبيرة من المدربين.\n_ (1918)دخلت رياضة الجودو الى انجلترا.\n_ (1938)توفى الأستاذ جيجورو كانو.\n_ (1939)دخلت رياضة الجودو الى أمريكا.\n_ (1938)أقيمت أول بطولة الإمبراطورية اليابانية للجودو.\n_ (1949)تكون الاتحاد اليابانى للجودو للهواة.\n_ (1952)تاسس الاتحاد الدولى للجودو.\n_ (1956)أقيمت اول بطولة للعالم للجودو.\n_ (1963)تاسس الاتحاد المصري للجودو.\n_ (1964)دخلت رياضة الجودو بالاولمبياد بطوكيو اول مرة .',
                 style: Styles.textStyle20,
-              ),
-            ],
-          ),
-        ),
-      ),
-    );
+              )]
+        )
+      )
+    
+              ));
+            
   }
 }

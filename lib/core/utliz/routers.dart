@@ -2,6 +2,9 @@ import 'package:flutter/material.dart';
 import 'package:go_router/go_router.dart';
 import 'package:judo_app/features/home/presentation/views/home_view.dart';
 import 'package:judo_app/features/screen1/presentation/views/screen1_view.dart';
+import 'package:judo_app/features/screen2/presentation/views/screen2_view.dart';
+import 'package:judo_app/features/screen3/presentation/views/screen3_view.dart';
+import 'package:judo_app/features/screen4/presentation/view/screen4view.dart';
 import 'package:judo_app/features/splash/presentation/views/splash_view.dart';
 
 
