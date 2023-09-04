@@ -2,6 +2,9 @@ import 'package:flutter/material.dart';
 import 'package:go_router/go_router.dart';
 import 'package:judo_app/features/home/presentation/views/home_view.dart';
 import 'package:judo_app/features/screen1/presentation/views/screen1_view.dart';
+import 'package:judo_app/features/screen2/presentation/views/screen2_view.dart';
+import 'package:judo_app/features/screen3/presentation/views/screen3_view.dart';
+import 'package:judo_app/features/screen4/presentation/view/screen4view.dart';
 import 'package:judo_app/features/splash/presentation/views/splash_view.dart';
 
 
@@ -9,12 +12,11 @@ abstract class AppRouter {
   static const kHomeView = '/homeView';
   static const kScreen1View = '/screen1View';
   static const kScreen2View = '/screen2View';
-    static const kScreen3View = '/screen3View';
+  static const kScreen3View = '/screen3View';
   static const kScreen4View = '/screen4View';
-    static const kScreen5View = '/screen5View';
+  static const kScreen5View = '/screen5View';
   static const kScreen6View = '/screen6View';
-    static const kScreen7View = '/screen7View';
-
+  static const kScreen7View = '/screen7View';
 
   static GoRouter router = GoRouter(
     routes: [
@@ -32,27 +34,27 @@ abstract class AppRouter {
         path: kScreen1View,
         builder: (context, state) => const Screen1View(),
       ),
-       GoRoute(
+      GoRoute(
         path: kScreen2View,
-        builder: (context, state) => const Screen1View(),
+        builder: (context, state) => const Screen2View(),
       ),
-       GoRoute(
+      GoRoute(
         path: kScreen3View,
-        builder: (context, state) => const Screen1View(),
+        builder: (context, state) => const Screen3View(),
       ),
-       GoRoute(
+      GoRoute(
         path: kScreen4View,
-        builder: (context, state) => const Screen1View(),
+        builder: (context, state) => const Screen4View(),
       ),
-       GoRoute(
+      GoRoute(
         path: kScreen5View,
         builder: (context, state) => const Screen1View(),
       ),
-       GoRoute(
+      GoRoute(
         path: kScreen6View,
         builder: (context, state) => const Screen1View(),
       ),
-       GoRoute(
+      GoRoute(
         path: kScreen7View,
         builder: (context, state) => const Screen1View(),
       ),
