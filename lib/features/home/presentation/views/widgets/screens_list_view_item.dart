@@ -13,7 +13,7 @@ class ScreensListViewItem extends StatelessWidget {
     return Padding(
       padding: const EdgeInsets.all(16),
       child: Container(
-          height: MediaQuery.of(context).size.height * .2,
+          height: MediaQuery.of(context).size.height * .22,
           decoration: BoxDecoration(
               borderRadius: BorderRadius.circular(24),
               color: ColorManager.white),
