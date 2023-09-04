@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:judo_app/core/resources/color_manager.dart';
-import 'package:judo_app/core/utliz/assets.dart';
 import 'package:judo_app/core/utliz/stayles.dart';
 
 class ScreensListViewItem extends StatelessWidget {
@@ -14,7 +13,7 @@ class ScreensListViewItem extends StatelessWidget {
     return Padding(
       padding: const EdgeInsets.all(16),
       child: Container(
-          height: MediaQuery.of(context).size.height * .2,
+          height: MediaQuery.of(context).size.height * .22,
           decoration: BoxDecoration(
               borderRadius: BorderRadius.circular(24),
               color: ColorManager.white),
