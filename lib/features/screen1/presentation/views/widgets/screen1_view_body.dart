@@ -9,7 +9,7 @@ class Screen1ViewBody extends StatelessWidget {
     return  Scaffold(
       body: SingleChildScrollView(
         child: Padding(
-          padding: EdgeInsets.all(24),
+          padding:const EdgeInsets.all(24),
           child: Column(
             crossAxisAlignment: CrossAxisAlignment.stretch,
             children: [
@@ -18,7 +18,7 @@ class Screen1ViewBody extends StatelessWidget {
                 textAlign: TextAlign.right,
                 style: Styles.textStyle28,
               ),
-              SizedBox(
+             const SizedBox(
                 height: 15,
               ),
               Text(

@@ -4,6 +4,8 @@ import 'package:judo_app/features/home/presentation/views/home_view.dart';
 import 'package:judo_app/features/screen1/presentation/views/screen1_view.dart';
 import 'package:judo_app/features/splash/presentation/views/splash_view.dart';
 
+import '../../features/screen2/presentation/views/screen2_view.dart';
+
 
 abstract class AppRouter {
   static const kHomeView = '/homeView';
@@ -34,7 +36,7 @@ abstract class AppRouter {
       ),
        GoRoute(
         path: kScreen2View,
-        builder: (context, state) => const Screen1View(),
+        builder: (context, state) => const Screen2View(),
       ),
        GoRoute(
         path: kScreen3View,
