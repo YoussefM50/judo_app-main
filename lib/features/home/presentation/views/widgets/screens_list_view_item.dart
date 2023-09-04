@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:judo_app/core/resources/color_manager.dart';
-import 'package:judo_app/core/utliz/assets.dart';
 import 'package:judo_app/core/utliz/stayles.dart';
 
 class ScreensListViewItem extends StatelessWidget {
