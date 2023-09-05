@@ -137,6 +137,24 @@ class MessageLookup extends MessageLookupByLibrary {
             "• Then we place the left end over the right end of the belt and twist it, then insert it between the right end and tighten it so that it becomes as in the figure:-"),
         "screen4topic9": MessageLookupByLibrary.simpleMessage(
             "The suit is applied as follows:-"),
+        "screen5subtitle1": MessageLookupByLibrary.simpleMessage(
+            "Models of warm-up exercises used in judo:"),
+        "screen5subtitle2":
+            MessageLookupByLibrary.simpleMessage("Leg exercises: "),
+        "screen5subtitle3": MessageLookupByLibrary.simpleMessage(
+            "Samples of warm-up exercises performed by more than one player:"),
+        "screen5subtitle4":
+            MessageLookupByLibrary.simpleMessage("Normal warm-up exercises:"),
+        "screen5title": MessageLookupByLibrary.simpleMessage(
+            "Why is warming up important for judo players:-"),
+        "screen5topic1": MessageLookupByLibrary.simpleMessage(
+            "1 - Neck exercises: bending the neck from right to left or vice versa or backwards and rotating the head from right to left. \n 2 - Arm exercises: swinging the arms forward, down and to the side, placing the palms in front of the chest and pressing the elbows to the side, and movements A circle with the arms by raising them to the side.\n 3 - Torso exercises: standing with the arms high and pressing the torso and arms behind. The training is repeated in a sitting position, standing with the arm in front and pressing the torso to the sides, and alternating by pressing the torso forward and to the ear by trying to touch the ground with the forehead.\n"),
+        "screen5topic2": MessageLookupByLibrary.simpleMessage(
+            "Standing with the arms to the side and returning the legs to the side. Standing with the arms in front and returning the legs high in front, taking turns trying to touch the hands while taking into account the progression in training. Sitting and extending the legs forward and raising the knee high to touch the chest with the help of the hands. Standing and bending the knees completely and then extending them."),
+        "screen5topic3": MessageLookupByLibrary.simpleMessage(
+            "1. Neck exercises: Each player tries to grab the other player\'s neck with one hand. \n 2. Arm exercises: The two players stand face to face with their hands clasped in front of the chest, and the exercise is performed by bending and extending the arms. \n 3. Torso exercises: standing Two players with their arms high and their backs to each other, with an appropriate distance between them. The exercise is performed by bending the torso forward and down while trying to interlock the hands to increase the pressure of the torso backwards. The two players stand face to face with one’s arm interlocking with the other’s arm, and raising the other arm high. The exercise is performed by pulling each of them The other with the upper arm thrown back.\n 4. Exercises for the legs: Two players stand face to face and each one holds the other’s leg with his hand and the exercise is performed with the stone on one leg. Two players also stand with their backs to each other, with the arms raised in front of them and the training is performed by bending one knee Completely and extend the other leg.\n"),
+        "screen5topic4": MessageLookupByLibrary.simpleMessage(
+            "1-Walking on the balls of the foot.\n 2-Walking on the heel of the foot.\n 3-Walking on the outer side of the foot, then the inner.\n 4-Walking with the knees slightly bent.\n 5-Walking with long steps. 6- Walking while trying to touch the chest with the knee. 7- Walking in quick steps with circular movements of the arms. 8- Walking with the torso bent forward and down and touching the ground with the hands. Walking on one leg while holding the joint of the other foot with one hand, then switching 9-Running with the knees bent. 10-Jumping forward and then backward. 11-Jumping on one leg for a certain distance and then switching to jumping on the other. 12-Running in the opposite direction. 13-Running then Sit or lie down, then run again at the coach’s signal.\n 14- Running while performing some deception and camouflage movements.\n 15- Fast running and then standing immediately at the coach’s signal.\n 16- Fast running while changing direction when hearing the coach’s signal. \n 17- Running fast, then jumping on the stomach at the coach’s signal.\n 18- Running, then jumping with one foot and jumping with both feet.\n 19- Running forward, then jumping high, and squatting when hearing the coach’s signal.\n 20- Running forward, then jumping High up and squat down when you hear the coach\'s signal. \n"),
         "screen6title": MessageLookupByLibrary.simpleMessage(
             "Some throwing skills from above in judo:-"),
         "screen6type1": MessageLookupByLibrary.simpleMessage("di ashi bray"),
@@ -289,24 +307,6 @@ class MessageLookup extends MessageLookupByLibrary {
             MessageLookupByLibrary.simpleMessage("صورة توضيحية للمصطلح"),
         "screen7title": MessageLookupByLibrary.simpleMessage(
             "بعض المطلحات الخاصة برياضة الجودو :"),
-        "screen5subtitle1": MessageLookupByLibrary.simpleMessage(
-            "Models of warm-up exercises used in judo:"),
-        "screen5subtitle2":
-            MessageLookupByLibrary.simpleMessage("Leg exercises: "),
-        "screen5subtitle3": MessageLookupByLibrary.simpleMessage(
-            "Samples of warm-up exercises performed by more than one player:"),
-        "screen5subtitle4":
-            MessageLookupByLibrary.simpleMessage("Normal warm-up exercises:"),
-        "screen5title": MessageLookupByLibrary.simpleMessage(
-            "Why is warming up important for judo players:-"),
-        "screen5topic1": MessageLookupByLibrary.simpleMessage(
-            "1 - Neck exercises: bending the neck from right to left or vice versa or backwards and rotating the head from right to left. \n 2 - Arm exercises: swinging the arms forward, down and to the side, placing the palms in front of the chest and pressing the elbows to the side, and movements A circle with the arms by raising them to the side.\n 3 - Torso exercises: standing with the arms high and pressing the torso and arms behind. The training is repeated in a sitting position, standing with the arm in front and pressing the torso to the sides, and alternating by pressing the torso forward and to the ear by trying to touch the ground with the forehead.\n"),
-        "screen5topic2": MessageLookupByLibrary.simpleMessage(
-            "Standing with the arms to the side and returning the legs to the side. Standing with the arms in front and returning the legs high in front, taking turns trying to touch the hands while taking into account the progression in training. Sitting and extending the legs forward and raising the knee high to touch the chest with the help of the hands. Standing and bending the knees completely and then extending them."),
-        "screen5topic3": MessageLookupByLibrary.simpleMessage(
-            "1. Neck exercises: Each player tries to grab the other player\'s neck with one hand. \n 2. Arm exercises: The two players stand face to face with their hands clasped in front of the chest, and the exercise is performed by bending and extending the arms. \n 3. Torso exercises: standing Two players with their arms high and their backs to each other, with an appropriate distance between them. The exercise is performed by bending the torso forward and down while trying to interlock the hands to increase the pressure of the torso backwards. The two players stand face to face with one’s arm interlocking with the other’s arm, and raising the other arm high. The exercise is performed by pulling each of them The other with the upper arm thrown back.\n 4. Exercises for the legs: Two players stand face to face and each one holds the other’s leg with his hand and the exercise is performed with the stone on one leg. Two players also stand with their backs to each other, with the arms raised in front of them and the training is performed by bending one knee Completely and extend the other leg.\n"),
-        "screen5topic4": MessageLookupByLibrary.simpleMessage(
-            "1-Walking on the balls of the foot.\n 2-Walking on the heel of the foot.\n 3-Walking on the outer side of the foot, then the inner.\n 4-Walking with the knees slightly bent.\n 5-Walking with long steps. 6- Walking while trying to touch the chest with the knee. 7- Walking in quick steps with circular movements of the arms. 8- Walking with the torso bent forward and down and touching the ground with the hands. Walking on one leg while holding the joint of the other foot with one hand, then switching 9-Running with the knees bent. 10-Jumping forward and then backward. 11-Jumping on one leg for a certain distance and then switching to jumping on the other. 12-Running in the opposite direction. 13-Running then Sit or lie down, then run again at the coach’s signal.\n 14- Running while performing some deception and camouflage movements.\n 15- Fast running and then standing immediately at the coach’s signal.\n 16- Fast running while changing direction when hearing the coach’s signal. \n 17- Running fast, then jumping on the stomach at the coach’s signal.\n 18- Running, then jumping with one foot and jumping with both feet.\n 19- Running forward, then jumping high, and squatting when hearing the coach’s signal.\n 20- Running forward, then jumping High up and squat down when you hear the coach\'s signal. \n"),
         "title": MessageLookupByLibrary.simpleMessage("Hello World")
       };
 }
