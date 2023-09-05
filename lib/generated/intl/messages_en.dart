@@ -137,6 +137,158 @@ class MessageLookup extends MessageLookupByLibrary {
             "• Then we place the left end over the right end of the belt and twist it, then insert it between the right end and tighten it so that it becomes as in the figure:-"),
         "screen4topic9": MessageLookupByLibrary.simpleMessage(
             "The suit is applied as follows:-"),
+        "screen6title": MessageLookupByLibrary.simpleMessage(
+            "Some throwing skills from above in judo:-"),
+        "screen6type1": MessageLookupByLibrary.simpleMessage("di ashi bray"),
+        "screen6type10": MessageLookupByLibrary.simpleMessage("دي اشي براي"),
+        "screen6type11": MessageLookupByLibrary.simpleMessage("دي اشي براي"),
+        "screen6type12": MessageLookupByLibrary.simpleMessage("دي اشي براي"),
+        "screen6type13": MessageLookupByLibrary.simpleMessage("دي اشي براي"),
+        "screen6type14": MessageLookupByLibrary.simpleMessage("دي اشي براي"),
+        "screen6type15": MessageLookupByLibrary.simpleMessage("دي اشي براي"),
+        "screen6type16": MessageLookupByLibrary.simpleMessage("دي اشي براي"),
+        "screen6type17": MessageLookupByLibrary.simpleMessage("دي اشي براي"),
+        "screen6type18": MessageLookupByLibrary.simpleMessage("دي اشي براي"),
+        "screen6type19": MessageLookupByLibrary.simpleMessage("دي اشي براي"),
+        "screen6type2": MessageLookupByLibrary.simpleMessage("دي اشي براي"),
+        "screen6type20": MessageLookupByLibrary.simpleMessage("دي اشي براي"),
+        "screen6type21": MessageLookupByLibrary.simpleMessage("دي اشي براي"),
+        "screen6type22": MessageLookupByLibrary.simpleMessage("دي اشي براي"),
+        "screen6type23": MessageLookupByLibrary.simpleMessage("دي اشي براي"),
+        "screen6type24": MessageLookupByLibrary.simpleMessage("دي اشي براي"),
+        "screen6type25": MessageLookupByLibrary.simpleMessage("دي اشي براي"),
+        "screen6type26": MessageLookupByLibrary.simpleMessage("دي اشي براي"),
+        "screen6type27": MessageLookupByLibrary.simpleMessage("دي اشي براي"),
+        "screen6type28": MessageLookupByLibrary.simpleMessage("دي اشي براي"),
+        "screen6type29": MessageLookupByLibrary.simpleMessage("دي اشي براي"),
+        "screen6type3": MessageLookupByLibrary.simpleMessage("دي اشي براي"),
+        "screen6type30": MessageLookupByLibrary.simpleMessage("دي اشي براي"),
+        "screen6type31": MessageLookupByLibrary.simpleMessage("دي اشي براي"),
+        "screen6type32": MessageLookupByLibrary.simpleMessage("دي اشي براي"),
+        "screen6type33": MessageLookupByLibrary.simpleMessage("دي اشي براي"),
+        "screen6type34": MessageLookupByLibrary.simpleMessage("دي اشي براي"),
+        "screen6type35": MessageLookupByLibrary.simpleMessage("دي اشي براي"),
+        "screen6type36": MessageLookupByLibrary.simpleMessage("دي اشي براي"),
+        "screen6type37": MessageLookupByLibrary.simpleMessage("دي اشي براي"),
+        "screen6type38": MessageLookupByLibrary.simpleMessage("دي اشي براي"),
+        "screen6type39": MessageLookupByLibrary.simpleMessage("دي اشي براي"),
+        "screen6type4": MessageLookupByLibrary.simpleMessage("دي اشي براي"),
+        "screen6type40": MessageLookupByLibrary.simpleMessage("دي اشي براي"),
+        "screen6type41": MessageLookupByLibrary.simpleMessage("دي اشي براي"),
+        "screen6type42": MessageLookupByLibrary.simpleMessage("دي اشي براي"),
+        "screen6type43": MessageLookupByLibrary.simpleMessage("دي اشي براي"),
+        "screen6type44": MessageLookupByLibrary.simpleMessage("دي اشي براي"),
+        "screen6type45": MessageLookupByLibrary.simpleMessage("دي اشي براي"),
+        "screen6type46": MessageLookupByLibrary.simpleMessage("دي اشي براي"),
+        "screen6type5": MessageLookupByLibrary.simpleMessage("دي اشي براي"),
+        "screen6type6": MessageLookupByLibrary.simpleMessage("دي اشي براي"),
+        "screen6type7": MessageLookupByLibrary.simpleMessage("دي اشي براي"),
+        "screen6type8": MessageLookupByLibrary.simpleMessage("دي اشي براي"),
+        "screen6type9": MessageLookupByLibrary.simpleMessage("دي اشي براي"),
+        "screen7arabicterm1": MessageLookupByLibrary.simpleMessage("لاعب جودو"),
+        "screen7arabicterm10": MessageLookupByLibrary.simpleMessage("قدم"),
+        "screen7arabicterm11":
+            MessageLookupByLibrary.simpleMessage("معلم/ مدرب"),
+        "screen7arabicterm12":
+            MessageLookupByLibrary.simpleMessage("التحية من الوقوف"),
+        "screen7arabicterm13":
+            MessageLookupByLibrary.simpleMessage("التحية من اسفل"),
+        "screen7arabicterm14":
+            MessageLookupByLibrary.simpleMessage("الوقفة الطبيعية"),
+        "screen7arabicterm15":
+            MessageLookupByLibrary.simpleMessage("الوقفة الطبيعية يمين"),
+        "screen7arabicterm16":
+            MessageLookupByLibrary.simpleMessage("الوقفة الطبيعية شمال"),
+        "screen7arabicterm17":
+            MessageLookupByLibrary.simpleMessage("الوقفة الدفاعية"),
+        "screen7arabicterm18":
+            MessageLookupByLibrary.simpleMessage("الوقفة الدفاعية يمين"),
+        "screen7arabicterm19":
+            MessageLookupByLibrary.simpleMessage("الوقفة الدفاعية شمال"),
+        "screen7arabicterm2":
+            MessageLookupByLibrary.simpleMessage("الجاكت-السترة"),
+        "screen7arabicterm20":
+            MessageLookupByLibrary.simpleMessage("مسكة البدلة"),
+        "screen7arabicterm21":
+            MessageLookupByLibrary.simpleMessage("التحرك علي البساط"),
+        "screen7arabicterm22":
+            MessageLookupByLibrary.simpleMessage("أخلال التوازن"),
+        "screen7arabicterm23": MessageLookupByLibrary.simpleMessage("السقطات"),
+        "screen7arabicterm24":
+            MessageLookupByLibrary.simpleMessage("السقطة الجانبية"),
+        "screen7arabicterm25":
+            MessageLookupByLibrary.simpleMessage("السقطة الخلفية"),
+        "screen7arabicterm26":
+            MessageLookupByLibrary.simpleMessage("السقطة الامامية الدائرية"),
+        "screen7arabicterm27":
+            MessageLookupByLibrary.simpleMessage("السقطة الامامية"),
+        "screen7arabicterm28":
+            MessageLookupByLibrary.simpleMessage("السقطة الجانبية شمال"),
+        "screen7arabicterm29":
+            MessageLookupByLibrary.simpleMessage("السقطة الجانبية يمين"),
+        "screen7arabicterm3": MessageLookupByLibrary.simpleMessage("الحزام"),
+        "screen7arabicterm30": MessageLookupByLibrary.simpleMessage("حكم"),
+        "screen7arabicterm4": MessageLookupByLibrary.simpleMessage("البنطلون"),
+        "screen7arabicterm5":
+            MessageLookupByLibrary.simpleMessage("بدلة الجودو"),
+        "screen7arabicterm6":
+            MessageLookupByLibrary.simpleMessage("صالة الجودو"),
+        "screen7arabicterm7": MessageLookupByLibrary.simpleMessage("البساط"),
+        "screen7arabicterm8": MessageLookupByLibrary.simpleMessage("ايد"),
+        "screen7arabicterm9":
+            MessageLookupByLibrary.simpleMessage("وسط/ مقعدة"),
+        "screen7japaneseterm1": MessageLookupByLibrary.simpleMessage("جودوكا"),
+        "screen7japaneseterm10": MessageLookupByLibrary.simpleMessage("اشي"),
+        "screen7japaneseterm11": MessageLookupByLibrary.simpleMessage("سنساي"),
+        "screen7japaneseterm12": MessageLookupByLibrary.simpleMessage("رية"),
+        "screen7japaneseterm13": MessageLookupByLibrary.simpleMessage("زا رية"),
+        "screen7japaneseterm14":
+            MessageLookupByLibrary.simpleMessage("شيزن تاي"),
+        "screen7japaneseterm15":
+            MessageLookupByLibrary.simpleMessage("ميجي شيزن تاي"),
+        "screen7japaneseterm16":
+            MessageLookupByLibrary.simpleMessage("هيداري شيزن تاي"),
+        "screen7japaneseterm17":
+            MessageLookupByLibrary.simpleMessage("جيجوتاي"),
+        "screen7japaneseterm18":
+            MessageLookupByLibrary.simpleMessage("ميجي جيجوتاي"),
+        "screen7japaneseterm19":
+            MessageLookupByLibrary.simpleMessage("هيداري جيجوتاي"),
+        "screen7japaneseterm2": MessageLookupByLibrary.simpleMessage("يواجي"),
+        "screen7japaneseterm20":
+            MessageLookupByLibrary.simpleMessage("كومي كاتا"),
+        "screen7japaneseterm21":
+            MessageLookupByLibrary.simpleMessage("تاي سباكي"),
+        "screen7japaneseterm22": MessageLookupByLibrary.simpleMessage("كوزوشي"),
+        "screen7japaneseterm23": MessageLookupByLibrary.simpleMessage("اوكيمي"),
+        "screen7japaneseterm24":
+            MessageLookupByLibrary.simpleMessage("يوكو اوكيمي"),
+        "screen7japaneseterm25":
+            MessageLookupByLibrary.simpleMessage("اوشيروا اوكيمي"),
+        "screen7japaneseterm26":
+            MessageLookupByLibrary.simpleMessage("ماي مواري أوكيمي"),
+        "screen7japaneseterm27":
+            MessageLookupByLibrary.simpleMessage("ماي اوكيمي"),
+        "screen7japaneseterm28":
+            MessageLookupByLibrary.simpleMessage("هيداري يوكو اوكيمي"),
+        "screen7japaneseterm29":
+            MessageLookupByLibrary.simpleMessage("ميجي يوكو اوكيمي"),
+        "screen7japaneseterm3": MessageLookupByLibrary.simpleMessage("أوبي"),
+        "screen7japaneseterm30": MessageLookupByLibrary.simpleMessage("شينبان"),
+        "screen7japaneseterm4": MessageLookupByLibrary.simpleMessage("زبون"),
+        "screen7japaneseterm5": MessageLookupByLibrary.simpleMessage("جودوجي"),
+        "screen7japaneseterm6": MessageLookupByLibrary.simpleMessage("دوجو"),
+        "screen7japaneseterm7": MessageLookupByLibrary.simpleMessage("تاتامي"),
+        "screen7japaneseterm8": MessageLookupByLibrary.simpleMessage("تي"),
+        "screen7japaneseterm9": MessageLookupByLibrary.simpleMessage("جوشي"),
+        "screen7subtitle1":
+            MessageLookupByLibrary.simpleMessage("المصطلح باللغة العربية"),
+        "screen7subtitle2":
+            MessageLookupByLibrary.simpleMessage("المصطلح باللغة اليابانية"),
+        "screen7subtitle3":
+            MessageLookupByLibrary.simpleMessage("صورة توضيحية للمصطلح"),
+        "screen7title": MessageLookupByLibrary.simpleMessage(
+            "بعض المطلحات الخاصة برياضة الجودو :"),
         "screen5subtitle1": MessageLookupByLibrary.simpleMessage(
             "Models of warm-up exercises used in judo:"),
         "screen5subtitle2":
