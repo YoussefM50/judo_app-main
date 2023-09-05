@@ -17,7 +17,6 @@ class Screen6ViewBody extends StatelessWidget {
               Column(crossAxisAlignment: CrossAxisAlignment.stretch, children: [
             Text(
               S.of(context).screen6title,
-              textAlign: TextAlign.right,
               style: Styles.textStyle28,
             ),
             const SizedBox(

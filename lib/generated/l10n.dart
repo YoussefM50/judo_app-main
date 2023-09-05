@@ -400,1090 +400,1100 @@ class S {
     );
   }
 
-  /// `دي اشي براي`
+  /// `Haiza Guruma`
   String get screen6type2 {
     return Intl.message(
-      'دي اشي براي',
+      'Haiza Guruma',
       name: 'screen6type2',
       desc: '',
       args: [],
     );
   }
 
-  /// `دي اشي براي`
+  /// `Sasai Tsurikumi Ashi`
   String get screen6type3 {
     return Intl.message(
-      'دي اشي براي',
+      'Sasai Tsurikumi Ashi',
       name: 'screen6type3',
       desc: '',
       args: [],
     );
   }
 
-  /// `دي اشي براي`
+  /// `Ok Joshi`
   String get screen6type4 {
     return Intl.message(
-      'دي اشي براي',
+      'Ok Joshi',
       name: 'screen6type4',
       desc: '',
       args: [],
     );
   }
 
-  /// `دي اشي براي`
+  /// `Usutu jari`
   String get screen6type5 {
     return Intl.message(
-      'دي اشي براي',
+      'Usutu jari',
       name: 'screen6type5',
       desc: '',
       args: [],
     );
   }
 
-  /// `دي اشي براي`
+  /// `Oh Joshy`
   String get screen6type6 {
     return Intl.message(
-      'دي اشي براي',
+      'Oh Joshy',
       name: 'screen6type6',
       desc: '',
       args: [],
     );
   }
 
-  /// `دي اشي براي`
+  /// `aw atshi jari`
   String get screen6type7 {
     return Intl.message(
-      'دي اشي براي',
+      'aw atshi jari',
       name: 'screen6type7',
       desc: '',
       args: [],
     );
   }
 
-  /// `دي اشي براي`
+  /// `Ippon Seo Nagi`
   String get screen6type8 {
     return Intl.message(
-      'دي اشي براي',
+      'Ippon Seo Nagi',
       name: 'screen6type8',
       desc: '',
       args: [],
     );
   }
 
-  /// `دي اشي براي`
+  /// `Kosuto jari`
   String get screen6type9 {
     return Intl.message(
-      'دي اشي براي',
+      'Kosuto jari',
       name: 'screen6type9',
       desc: '',
       args: [],
     );
   }
 
-  /// `دي اشي براي`
+  /// `Ko-achi-jari`
   String get screen6type10 {
     return Intl.message(
-      'دي اشي براي',
+      'Ko-achi-jari',
       name: 'screen6type10',
       desc: '',
       args: [],
     );
   }
 
-  /// `دي اشي براي`
+  /// `Kochi Guruma`
   String get screen6type11 {
     return Intl.message(
-      'دي اشي براي',
+      'Kochi Guruma',
       name: 'screen6type11',
       desc: '',
       args: [],
     );
   }
 
-  /// `دي اشي براي`
+  /// `Tsuri kumi joshi`
   String get screen6type12 {
     return Intl.message(
-      'دي اشي براي',
+      'Tsuri kumi joshi',
       name: 'screen6type12',
       desc: '',
       args: [],
     );
   }
 
-  /// `دي اشي براي`
+  /// `Okoriya ashy harae`
   String get screen6type13 {
     return Intl.message(
-      'دي اشي براي',
+      'Okoriya ashy harae',
       name: 'screen6type13',
       desc: '',
       args: [],
     );
   }
 
-  /// `دي اشي براي`
+  /// `Tai Otoshi`
   String get screen6type14 {
     return Intl.message(
-      'دي اشي براي',
+      'Tai Otoshi',
       name: 'screen6type14',
       desc: '',
       args: [],
     );
   }
 
-  /// `دي اشي براي`
+  /// `Hrai Joshi`
   String get screen6type15 {
     return Intl.message(
-      'دي اشي براي',
+      'Hrai Joshi',
       name: 'screen6type15',
       desc: '',
       args: [],
     );
   }
 
-  /// `دي اشي براي`
+  /// `Uchi mata`
   String get screen6type16 {
     return Intl.message(
-      'دي اشي براي',
+      'Uchi mata',
       name: 'screen6type16',
       desc: '',
       args: [],
     );
   }
 
-  /// `دي اشي براي`
+  /// `Kusuto Jackie`
   String get screen6type17 {
     return Intl.message(
-      'دي اشي براي',
+      'Kusuto Jackie',
       name: 'screen6type17',
       desc: '',
       args: [],
     );
   }
 
-  /// `دي اشي براي`
+  /// `Tsuri Joshi`
   String get screen6type18 {
     return Intl.message(
-      'دي اشي براي',
+      'Tsuri Joshi',
       name: 'screen6type18',
       desc: '',
       args: [],
     );
   }
 
-  /// `دي اشي براي`
+  /// `Yoko Otoshi`
   String get screen6type19 {
     return Intl.message(
-      'دي اشي براي',
+      'Yoko Otoshi',
       name: 'screen6type19',
       desc: '',
       args: [],
     );
   }
 
-  /// `دي اشي براي`
+  /// `Ashi Guruma`
   String get screen6type20 {
     return Intl.message(
-      'دي اشي براي',
+      'Ashi Guruma',
       name: 'screen6type20',
       desc: '',
       args: [],
     );
   }
 
-  /// `دي اشي براي`
+  /// `Hani Joshi`
   String get screen6type21 {
     return Intl.message(
-      'دي اشي براي',
+      'Hani Joshi',
       name: 'screen6type21',
       desc: '',
       args: [],
     );
   }
 
-  /// `دي اشي براي`
+  /// `Hirai Tsurikumi Ashi`
   String get screen6type22 {
     return Intl.message(
-      'دي اشي براي',
+      'Hirai Tsurikumi Ashi',
       name: 'screen6type22',
       desc: '',
       args: [],
     );
   }
 
-  /// `دي اشي براي`
+  /// `Tommy Nagy`
   String get screen6type23 {
     return Intl.message(
-      'دي اشي براي',
+      'Tommy Nagy',
       name: 'screen6type23',
       desc: '',
       args: [],
     );
   }
 
-  /// `دي اشي براي`
+  /// `Kata Guruma`
   String get screen6type24 {
     return Intl.message(
-      'دي اشي براي',
+      'Kata Guruma',
       name: 'screen6type24',
       desc: '',
       args: [],
     );
   }
 
-  /// `دي اشي براي`
+  /// `Sumi Gachi`
   String get screen6type25 {
     return Intl.message(
-      'دي اشي براي',
+      'Sumi Gachi',
       name: 'screen6type25',
       desc: '',
       args: [],
     );
   }
 
-  /// `دي اشي براي`
+  /// `Tani Otoshi`
   String get screen6type26 {
     return Intl.message(
-      'دي اشي براي',
+      'Tani Otoshi',
       name: 'screen6type26',
       desc: '',
       args: [],
     );
   }
 
-  /// `دي اشي براي`
+  /// `Hani Maki Kumi`
   String get screen6type27 {
     return Intl.message(
-      'دي اشي براي',
+      'Hani Maki Kumi',
       name: 'screen6type27',
       desc: '',
       args: [],
     );
   }
 
-  /// `دي اشي براي`
+  /// `Sukui Nagi`
   String get screen6type28 {
     return Intl.message(
-      'دي اشي براي',
+      'Sukui Nagi',
       name: 'screen6type28',
       desc: '',
       args: [],
     );
   }
 
-  /// `دي اشي براي`
+  /// `Tsuri Joshi`
   String get screen6type29 {
     return Intl.message(
-      'دي اشي براي',
+      'Tsuri Joshi',
       name: 'screen6type29',
       desc: '',
       args: [],
     );
   }
 
-  /// `دي اشي براي`
+  /// `Oh Groma`
   String get screen6type30 {
     return Intl.message(
-      'دي اشي براي',
+      'Oh Groma',
       name: 'screen6type30',
       desc: '',
       args: [],
     );
   }
 
-  /// `دي اشي براي`
+  /// `Soto Makikomi`
   String get screen6type31 {
     return Intl.message(
-      'دي اشي براي',
+      'Soto Makikomi',
       name: 'screen6type31',
       desc: '',
       args: [],
     );
   }
 
-  /// `دي اشي براي`
+  /// `Okay Otoshi`
   String get screen6type32 {
     return Intl.message(
-      'دي اشي براي',
+      'Okay Otoshi',
       name: 'screen6type32',
       desc: '',
       args: [],
     );
   }
 
-  /// `دي اشي براي`
+  /// `Osuter Guruma`
   String get screen6type33 {
     return Intl.message(
-      'دي اشي براي',
+      'Osuter Guruma',
       name: 'screen6type33',
       desc: '',
       args: [],
     );
   }
 
-  /// `دي اشي براي`
+  /// `Oki waza`
   String get screen6type34 {
     return Intl.message(
-      'دي اشي براي',
+      'Oki waza',
       name: 'screen6type34',
       desc: '',
       args: [],
     );
   }
 
-  /// `دي اشي براي`
+  /// `Yo Wakari`
   String get screen6type35 {
     return Intl.message(
-      'دي اشي براي',
+      'Yo Wakari',
       name: 'screen6type35',
       desc: '',
       args: [],
     );
   }
 
-  /// `دي اشي براي`
+  /// `Yoko Guruma`
   String get screen6type36 {
     return Intl.message(
-      'دي اشي براي',
+      'Yoko Guruma',
       name: 'screen6type36',
       desc: '',
       args: [],
     );
   }
 
-  /// `دي اشي براي`
+  /// `Oshiro Joshi`
   String get screen6type37 {
     return Intl.message(
-      'دي اشي براي',
+      'Oshiro Joshi',
       name: 'screen6type37',
       desc: '',
       args: [],
     );
   }
 
-  /// `دي اشي براي`
+  /// `Ura Neji`
   String get screen6type38 {
     return Intl.message(
-      'دي اشي براي',
+      'Ura Neji',
       name: 'screen6type38',
       desc: '',
       args: [],
     );
   }
 
-  /// `دي اشي براي`
+  /// `Sumi Otoshi`
   String get screen6type39 {
     return Intl.message(
-      'دي اشي براي',
+      'Sumi Otoshi',
       name: 'screen6type39',
       desc: '',
       args: [],
     );
   }
 
-  /// `دي اشي براي`
+  /// `Yoko Jackie`
   String get screen6type40 {
     return Intl.message(
-      'دي اشي براي',
+      'Yoko Jackie',
       name: 'screen6type40',
       desc: '',
       args: [],
     );
   }
 
-  /// `دي اشي براي`
+  /// `Marute Sionagi`
   String get screen6type41 {
     return Intl.message(
-      'دي اشي براي',
+      'Marute Sionagi',
       name: 'screen6type41',
       desc: '',
       args: [],
     );
   }
 
-  /// `دي اشي براي`
+  /// `Marwateh gari`
   String get screen6type42 {
     return Intl.message(
-      'دي اشي براي',
+      'Marwateh gari',
       name: 'screen6type42',
       desc: '',
       args: [],
     );
   }
 
-  /// `دي اشي براي`
+  /// `yamarashi`
   String get screen6type43 {
     return Intl.message(
-      'دي اشي براي',
+      'yamarashi',
       name: 'screen6type43',
       desc: '',
       args: [],
     );
   }
 
-  /// `دي اشي براي`
+  /// `Usto Otoshi`
   String get screen6type44 {
     return Intl.message(
-      'دي اشي براي',
+      'Usto Otoshi',
       name: 'screen6type44',
       desc: '',
       args: [],
     );
   }
 
-  /// `دي اشي براي`
+  /// `tasamaba jishi`
   String get screen6type45 {
     return Intl.message(
-      'دي اشي براي',
+      'tasamaba jishi',
       name: 'screen6type45',
       desc: '',
       args: [],
     );
   }
 
-  /// `دي اشي براي`
+  /// `Hani Joshi Jayshi`
   String get screen6type46 {
     return Intl.message(
-      'دي اشي براي',
+      'Hani Joshi Jayshi',
       name: 'screen6type46',
       desc: '',
       args: [],
     );
   }
 
-  /// `بعض المطلحات الخاصة برياضة الجودو :`
+  /// `Some terms related to judo:`
   String get screen7title {
     return Intl.message(
-      'بعض المطلحات الخاصة برياضة الجودو :',
+      'Some terms related to judo:',
       name: 'screen7title',
       desc: '',
       args: [],
     );
   }
 
-  /// `لاعب جودو`
+  /// `M`
+  String get screen7num {
+    return Intl.message(
+      'M',
+      name: 'screen7num',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `judo player`
   String get screen7arabicterm1 {
     return Intl.message(
-      'لاعب جودو',
+      'judo player',
       name: 'screen7arabicterm1',
       desc: '',
       args: [],
     );
   }
 
-  /// `الجاكت-السترة`
+  /// `Jacket`
   String get screen7arabicterm2 {
     return Intl.message(
-      'الجاكت-السترة',
+      'Jacket',
       name: 'screen7arabicterm2',
       desc: '',
       args: [],
     );
   }
 
-  /// `الحزام`
+  /// `Belt`
   String get screen7arabicterm3 {
     return Intl.message(
-      'الحزام',
+      'Belt',
       name: 'screen7arabicterm3',
       desc: '',
       args: [],
     );
   }
 
-  /// `البنطلون`
+  /// `pants`
   String get screen7arabicterm4 {
     return Intl.message(
-      'البنطلون',
+      'pants',
       name: 'screen7arabicterm4',
       desc: '',
       args: [],
     );
   }
 
-  /// `بدلة الجودو`
+  /// `Judo suit`
   String get screen7arabicterm5 {
     return Intl.message(
-      'بدلة الجودو',
+      'Judo suit',
       name: 'screen7arabicterm5',
       desc: '',
       args: [],
     );
   }
 
-  /// `صالة الجودو`
+  /// `Judo hall`
   String get screen7arabicterm6 {
     return Intl.message(
-      'صالة الجودو',
+      'Judo hall',
       name: 'screen7arabicterm6',
       desc: '',
       args: [],
     );
   }
 
-  /// `البساط`
+  /// `rug`
   String get screen7arabicterm7 {
     return Intl.message(
-      'البساط',
+      'rug',
       name: 'screen7arabicterm7',
       desc: '',
       args: [],
     );
   }
 
-  /// `ايد`
+  /// `hand`
   String get screen7arabicterm8 {
     return Intl.message(
-      'ايد',
+      'hand',
       name: 'screen7arabicterm8',
       desc: '',
       args: [],
     );
   }
 
-  /// `وسط/ مقعدة`
+  /// `middle/seat`
   String get screen7arabicterm9 {
     return Intl.message(
-      'وسط/ مقعدة',
+      'middle/seat',
       name: 'screen7arabicterm9',
       desc: '',
       args: [],
     );
   }
 
-  /// `قدم`
+  /// `foot`
   String get screen7arabicterm10 {
     return Intl.message(
-      'قدم',
+      'foot',
       name: 'screen7arabicterm10',
       desc: '',
       args: [],
     );
   }
 
-  /// `معلم/ مدرب`
+  /// `Teacher/Coach`
   String get screen7arabicterm11 {
     return Intl.message(
-      'معلم/ مدرب',
+      'Teacher/Coach',
       name: 'screen7arabicterm11',
       desc: '',
       args: [],
     );
   }
 
-  /// `التحية من الوقوف`
+  /// `Salute from standing`
   String get screen7arabicterm12 {
     return Intl.message(
-      'التحية من الوقوف',
+      'Salute from standing',
       name: 'screen7arabicterm12',
       desc: '',
       args: [],
     );
   }
 
-  /// `التحية من اسفل`
+  /// `Greetings from below`
   String get screen7arabicterm13 {
     return Intl.message(
-      'التحية من اسفل',
+      'Greetings from below',
       name: 'screen7arabicterm13',
       desc: '',
       args: [],
     );
   }
 
-  /// `الوقفة الطبيعية`
+  /// `Natural stance`
   String get screen7arabicterm14 {
     return Intl.message(
-      'الوقفة الطبيعية',
+      'Natural stance',
       name: 'screen7arabicterm14',
       desc: '',
       args: [],
     );
   }
 
-  /// `الوقفة الطبيعية يمين`
+  /// `Natural right stance`
   String get screen7arabicterm15 {
     return Intl.message(
-      'الوقفة الطبيعية يمين',
+      'Natural right stance',
       name: 'screen7arabicterm15',
       desc: '',
       args: [],
     );
   }
 
-  /// `الوقفة الطبيعية شمال`
+  /// `Natural Pause North`
   String get screen7arabicterm16 {
     return Intl.message(
-      'الوقفة الطبيعية شمال',
+      'Natural Pause North',
       name: 'screen7arabicterm16',
       desc: '',
       args: [],
     );
   }
 
-  /// `الوقفة الدفاعية`
+  /// `defensive stance`
   String get screen7arabicterm17 {
     return Intl.message(
-      'الوقفة الدفاعية',
+      'defensive stance',
       name: 'screen7arabicterm17',
       desc: '',
       args: [],
     );
   }
 
-  /// `الوقفة الدفاعية يمين`
+  /// `Defensive stance right`
   String get screen7arabicterm18 {
     return Intl.message(
-      'الوقفة الدفاعية يمين',
+      'Defensive stance right',
       name: 'screen7arabicterm18',
       desc: '',
       args: [],
     );
   }
 
-  /// `الوقفة الدفاعية شمال`
+  /// `Defensive position north`
   String get screen7arabicterm19 {
     return Intl.message(
-      'الوقفة الدفاعية شمال',
+      'Defensive position north',
       name: 'screen7arabicterm19',
       desc: '',
       args: [],
     );
   }
 
-  /// `مسكة البدلة`
+  /// `suit grip`
   String get screen7arabicterm20 {
     return Intl.message(
-      'مسكة البدلة',
+      'suit grip',
       name: 'screen7arabicterm20',
       desc: '',
       args: [],
     );
   }
 
-  /// `التحرك علي البساط`
+  /// `Move on the mat`
   String get screen7arabicterm21 {
     return Intl.message(
-      'التحرك علي البساط',
+      'Move on the mat',
       name: 'screen7arabicterm21',
       desc: '',
       args: [],
     );
   }
 
-  /// `أخلال التوازن`
+  /// `imbalance`
   String get screen7arabicterm22 {
     return Intl.message(
-      'أخلال التوازن',
+      'imbalance',
       name: 'screen7arabicterm22',
       desc: '',
       args: [],
     );
   }
 
-  /// `السقطات`
+  /// `Hiccups`
   String get screen7arabicterm23 {
     return Intl.message(
-      'السقطات',
+      'Hiccups',
       name: 'screen7arabicterm23',
       desc: '',
       args: [],
     );
   }
 
-  /// `السقطة الجانبية`
+  /// `side fall`
   String get screen7arabicterm24 {
     return Intl.message(
-      'السقطة الجانبية',
+      'side fall',
       name: 'screen7arabicterm24',
       desc: '',
       args: [],
     );
   }
 
-  /// `السقطة الخلفية`
+  /// `Back drop`
   String get screen7arabicterm25 {
     return Intl.message(
-      'السقطة الخلفية',
+      'Back drop',
       name: 'screen7arabicterm25',
       desc: '',
       args: [],
     );
   }
 
-  /// `السقطة الامامية الدائرية`
+  /// `Circular frontal fall`
   String get screen7arabicterm26 {
     return Intl.message(
-      'السقطة الامامية الدائرية',
+      'Circular frontal fall',
       name: 'screen7arabicterm26',
       desc: '',
       args: [],
     );
   }
 
-  /// `السقطة الامامية`
+  /// `Front fall`
   String get screen7arabicterm27 {
     return Intl.message(
-      'السقطة الامامية',
+      'Front fall',
       name: 'screen7arabicterm27',
       desc: '',
       args: [],
     );
   }
 
-  /// `السقطة الجانبية شمال`
+  /// `North side fall`
   String get screen7arabicterm28 {
     return Intl.message(
-      'السقطة الجانبية شمال',
+      'North side fall',
       name: 'screen7arabicterm28',
       desc: '',
       args: [],
     );
   }
 
-  /// `السقطة الجانبية يمين`
+  /// `Side fall to the right`
   String get screen7arabicterm29 {
     return Intl.message(
-      'السقطة الجانبية يمين',
+      'Side fall to the right',
       name: 'screen7arabicterm29',
       desc: '',
       args: [],
     );
   }
 
-  /// `حكم`
+  /// `referee`
   String get screen7arabicterm30 {
     return Intl.message(
-      'حكم',
+      'referee',
       name: 'screen7arabicterm30',
       desc: '',
       args: [],
     );
   }
 
-  /// `جودوكا`
+  /// `Judoka`
   String get screen7japaneseterm1 {
     return Intl.message(
-      'جودوكا',
+      'Judoka',
       name: 'screen7japaneseterm1',
       desc: '',
       args: [],
     );
   }
 
-  /// `يواجي`
+  /// `yuaji`
   String get screen7japaneseterm2 {
     return Intl.message(
-      'يواجي',
+      'yuaji',
       name: 'screen7japaneseterm2',
       desc: '',
       args: [],
     );
   }
 
-  /// `أوبي`
+  /// `Obi`
   String get screen7japaneseterm3 {
     return Intl.message(
-      'أوبي',
+      'Obi',
       name: 'screen7japaneseterm3',
       desc: '',
       args: [],
     );
   }
 
-  /// `زبون`
+  /// `zbun`
   String get screen7japaneseterm4 {
     return Intl.message(
-      'زبون',
+      'zbun',
       name: 'screen7japaneseterm4',
       desc: '',
       args: [],
     );
   }
 
-  /// `جودوجي`
+  /// `Judogi`
   String get screen7japaneseterm5 {
     return Intl.message(
-      'جودوجي',
+      'Judogi',
       name: 'screen7japaneseterm5',
       desc: '',
       args: [],
     );
   }
 
-  /// `دوجو`
+  /// `Dojo`
   String get screen7japaneseterm6 {
     return Intl.message(
-      'دوجو',
+      'Dojo',
       name: 'screen7japaneseterm6',
       desc: '',
       args: [],
     );
   }
 
-  /// `تاتامي`
+  /// `Tatami`
   String get screen7japaneseterm7 {
     return Intl.message(
-      'تاتامي',
+      'Tatami',
       name: 'screen7japaneseterm7',
       desc: '',
       args: [],
     );
   }
 
-  /// `تي`
+  /// `Ti`
   String get screen7japaneseterm8 {
     return Intl.message(
-      'تي',
+      'Ti',
       name: 'screen7japaneseterm8',
       desc: '',
       args: [],
     );
   }
 
-  /// `جوشي`
+  /// `Joshi`
   String get screen7japaneseterm9 {
     return Intl.message(
-      'جوشي',
+      'Joshi',
       name: 'screen7japaneseterm9',
       desc: '',
       args: [],
     );
   }
 
-  /// `اشي`
+  /// `ashy`
   String get screen7japaneseterm10 {
     return Intl.message(
-      'اشي',
+      'ashy',
       name: 'screen7japaneseterm10',
       desc: '',
       args: [],
     );
   }
 
-  /// `سنساي`
+  /// `Sensai`
   String get screen7japaneseterm11 {
     return Intl.message(
-      'سنساي',
+      'Sensai',
       name: 'screen7japaneseterm11',
       desc: '',
       args: [],
     );
   }
 
-  /// `رية`
+  /// `Rayya`
   String get screen7japaneseterm12 {
     return Intl.message(
-      'رية',
+      'Rayya',
       name: 'screen7japaneseterm12',
       desc: '',
       args: [],
     );
   }
 
-  /// `زا رية`
+  /// `The Rayya`
   String get screen7japaneseterm13 {
     return Intl.message(
-      'زا رية',
+      'The Rayya',
       name: 'screen7japaneseterm13',
       desc: '',
       args: [],
     );
   }
 
-  /// `شيزن تاي`
+  /// `Shizen Tai`
   String get screen7japaneseterm14 {
     return Intl.message(
-      'شيزن تاي',
+      'Shizen Tai',
       name: 'screen7japaneseterm14',
       desc: '',
       args: [],
     );
   }
 
-  /// `ميجي شيزن تاي`
+  /// `Meiji Shizen Tai`
   String get screen7japaneseterm15 {
     return Intl.message(
-      'ميجي شيزن تاي',
+      'Meiji Shizen Tai',
       name: 'screen7japaneseterm15',
       desc: '',
       args: [],
     );
   }
 
-  /// `هيداري شيزن تاي`
+  /// `Hidari Shizen Tai`
   String get screen7japaneseterm16 {
     return Intl.message(
-      'هيداري شيزن تاي',
+      'Hidari Shizen Tai',
       name: 'screen7japaneseterm16',
       desc: '',
       args: [],
     );
   }
 
-  /// `جيجوتاي`
+  /// `Jigutai`
   String get screen7japaneseterm17 {
     return Intl.message(
-      'جيجوتاي',
+      'Jigutai',
       name: 'screen7japaneseterm17',
       desc: '',
       args: [],
     );
   }
 
-  /// `ميجي جيجوتاي`
+  /// `Meiji Jigutai`
   String get screen7japaneseterm18 {
     return Intl.message(
-      'ميجي جيجوتاي',
+      'Meiji Jigutai',
       name: 'screen7japaneseterm18',
       desc: '',
       args: [],
     );
   }
 
-  /// `هيداري جيجوتاي`
+  /// `Hydari Jigutai`
   String get screen7japaneseterm19 {
     return Intl.message(
-      'هيداري جيجوتاي',
+      'Hydari Jigutai',
       name: 'screen7japaneseterm19',
       desc: '',
       args: [],
     );
   }
 
-  /// `كومي كاتا`
+  /// `Komi kata`
   String get screen7japaneseterm20 {
     return Intl.message(
-      'كومي كاتا',
+      'Komi kata',
       name: 'screen7japaneseterm20',
       desc: '',
       args: [],
     );
   }
 
-  /// `تاي سباكي`
+  /// `tay sbaki`
   String get screen7japaneseterm21 {
     return Intl.message(
-      'تاي سباكي',
+      'tay sbaki',
       name: 'screen7japaneseterm21',
       desc: '',
       args: [],
     );
   }
 
-  /// `كوزوشي`
+  /// `Kuzushi`
   String get screen7japaneseterm22 {
     return Intl.message(
-      'كوزوشي',
+      'Kuzushi',
       name: 'screen7japaneseterm22',
       desc: '',
       args: [],
     );
   }
 
-  /// `اوكيمي`
+  /// `Okimi`
   String get screen7japaneseterm23 {
     return Intl.message(
-      'اوكيمي',
+      'Okimi',
       name: 'screen7japaneseterm23',
       desc: '',
       args: [],
     );
   }
 
-  /// `يوكو اوكيمي`
+  /// `Yoko Okimi`
   String get screen7japaneseterm24 {
     return Intl.message(
-      'يوكو اوكيمي',
+      'Yoko Okimi',
       name: 'screen7japaneseterm24',
       desc: '',
       args: [],
     );
   }
 
-  /// `اوشيروا اوكيمي`
+  /// `Oshiroa Okimi`
   String get screen7japaneseterm25 {
     return Intl.message(
-      'اوشيروا اوكيمي',
+      'Oshiroa Okimi',
       name: 'screen7japaneseterm25',
       desc: '',
       args: [],
     );
   }
 
-  /// `ماي مواري أوكيمي`
+  /// `Mai Mwari Okemi`
   String get screen7japaneseterm26 {
     return Intl.message(
-      'ماي مواري أوكيمي',
+      'Mai Mwari Okemi',
       name: 'screen7japaneseterm26',
       desc: '',
       args: [],
     );
   }
 
-  /// `ماي اوكيمي`
+  /// `Mai Okimi`
   String get screen7japaneseterm27 {
     return Intl.message(
-      'ماي اوكيمي',
+      'Mai Okimi',
       name: 'screen7japaneseterm27',
       desc: '',
       args: [],
     );
   }
 
-  /// `هيداري يوكو اوكيمي`
+  /// `Hidari Yuko Okimi`
   String get screen7japaneseterm28 {
     return Intl.message(
-      'هيداري يوكو اوكيمي',
+      'Hidari Yuko Okimi',
       name: 'screen7japaneseterm28',
       desc: '',
       args: [],
     );
   }
 
-  /// `ميجي يوكو اوكيمي`
+  /// `Meiji Yuko Okimi`
   String get screen7japaneseterm29 {
     return Intl.message(
-      'ميجي يوكو اوكيمي',
+      'Meiji Yuko Okimi',
       name: 'screen7japaneseterm29',
       desc: '',
       args: [],
     );
   }
 
-  /// `شينبان`
+  /// `Shinban`
   String get screen7japaneseterm30 {
     return Intl.message(
-      'شينبان',
+      'Shinban',
       name: 'screen7japaneseterm30',
       desc: '',
       args: [],
     );
   }
 
-  /// `المصطلح باللغة العربية`
+  /// `Term in English`
   String get screen7subtitle1 {
     return Intl.message(
-      'المصطلح باللغة العربية',
+      'Term in English',
       name: 'screen7subtitle1',
       desc: '',
       args: [],
     );
   }
 
-  /// `المصطلح باللغة اليابانية`
+  /// `Term in Japanese`
   String get screen7subtitle2 {
     return Intl.message(
-      'المصطلح باللغة اليابانية',
+      'Term in Japanese',
       name: 'screen7subtitle2',
       desc: '',
       args: [],
     );
   }
 
-  /// `صورة توضيحية للمصطلح`
+  /// `Illustration of the term`
   String get screen7subtitle3 {
     return Intl.message(
-      'صورة توضيحية للمصطلح',
+      'Illustration of the term',
       name: 'screen7subtitle3',
       desc: '',
       args: [],
