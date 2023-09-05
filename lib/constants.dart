@@ -1,4 +1,3 @@
-
 import 'package:judo_app/core/utliz/assets.dart';
 
 List titlesListView = [
