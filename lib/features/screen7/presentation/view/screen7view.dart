@@ -7,6 +7,6 @@ class Screen7View extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return Screen7ViewBody();
+    return SafeArea(child: Screen7ViewBody());
   }
 }

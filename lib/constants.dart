@@ -1,14 +1,8 @@
+import 'package:flutter/cupertino.dart';
 import 'package:judo_app/core/utliz/assets.dart';
 
-List titlesListView = [
-  'تاريخ رياضة الجودو ',
-  'الاوضاع الاساسية في رياضية الجودو',
-  'اداب وتقاليد رياضة الجودو',
-  'طريقة ارتداء البدلة للمبتدئين',
-  'اهمية الاحماء للاعبي الجودو',
-  'اهم مهارات اللعب من اعلي للاعبي الجودو',
-  'مصطلحات رياضية الجودو'
-];
+import 'generated/l10n.dart';
+
 
 List images = [
   Assets.imagesScreen7Image1,
@@ -19,3 +13,15 @@ List images = [
   Assets.imagesScreen6Image10,
   Assets.imagesScreen7Image11,
 ];
+
+List titlesListView(BuildContext ctx) {
+  return [
+    S.of(ctx).hometitle1,
+    S.of(ctx).hometitle2,
+    S.of(ctx).hometitle3,
+    S.of(ctx).hometitle4,
+    S.of(ctx).hometitle5,
+    S.of(ctx).hometitle6,
+    S.of(ctx).hometitle7
+  ];
+}

@@ -7,6 +7,6 @@ class Screen2View extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return const Screen2ViewBody();
+    return const SafeArea(child:  Screen2ViewBody());
   }
 }

@@ -50,20 +50,110 @@ class S {
     return Localizations.of<S>(context, S);
   }
 
-  /// `Hello World`
+  /// `History of Judo`
+  String get hometitle1 {
+    return Intl.message(
+      'History of Judo',
+      name: 'hometitle1',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `Basic positions in judo`
+  String get hometitle2 {
+    return Intl.message(
+      'Basic positions in judo',
+      name: 'hometitle2',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `Etiquette and traditions of judo`
+  String get hometitle3 {
+    return Intl.message(
+      'Etiquette and traditions of judo',
+      name: 'hometitle3',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `How to wear a suit for beginners`
+  String get hometitle4 {
+    return Intl.message(
+      'How to wear a suit for beginners',
+      name: 'hometitle4',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `The importance of warming up for judo players`
+  String get hometitle5 {
+    return Intl.message(
+      'The importance of warming up for judo players',
+      name: 'hometitle5',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `The most important playing skills for judo players`
+  String get hometitle6 {
+    return Intl.message(
+      'The most important playing skills for judo players',
+      name: 'hometitle6',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `Judo sports terminology`
+  String get hometitle7 {
+    return Intl.message(
+      'Judo sports terminology',
+      name: 'hometitle7',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `Hello...`
   String get title {
     return Intl.message(
-      'Hello World',
+      'Hello...',
       name: 'title',
       desc: '',
       args: [],
     );
   }
 
-  /// `Programmed by Eng/ Hossam Ali`
+  /// `Dr/ Anwar Khatab`
+  String get doctors {
+    return Intl.message(
+      'Dr/ Anwar Khatab',
+      name: 'doctors',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `student : Ahmed Mostafa`
+  String get students {
+    return Intl.message(
+      'student : Ahmed Mostafa',
+      name: 'students',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `Programmed by Eng/ Hossam Ali, Youssef Medhat, Khaled Ahmed and Abanoub Emad`
   String get programmers {
     return Intl.message(
-      'Programmed by Eng/ Hossam Ali',
+      'Programmed by Eng/ Hossam Ali, Youssef Medhat, Khaled Ahmed and Abanoub Emad',
       name: 'programmers',
       desc: '',
       args: [],
@@ -75,6 +165,26 @@ class S {
     return Intl.message(
       'Judo',
       name: 'appbartitle',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `Designed by`
+  String get splashscreendialog1 {
+    return Intl.message(
+      'Designed by',
+      name: 'splashscreendialog1',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// ``
+  String get splashscreendialog2 {
+    return Intl.message(
+      '',
+      name: 'splashscreendialog2',
       desc: '',
       args: [],
     );

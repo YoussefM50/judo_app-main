@@ -13,15 +13,20 @@ class ScreensListViewItem extends StatelessWidget {
     return Padding(
       padding: const EdgeInsets.all(16),
       child: Container(
-          height: MediaQuery.of(context).size.height * .22,
+          height: MediaQuery.of(context).size.height * .25,
           decoration: BoxDecoration(
               borderRadius: BorderRadius.circular(24),
               color: ColorManager.white),
           child: Column(
             children: [
-              Text(
-                text,
-                style: Styles.textStyle18.copyWith(color: ColorManager.primary),
+              SizedBox(
+                width: MediaQuery.of(context).size.width * .8,
+                child: Text(
+                  text,
+                  style:
+                      Styles.textStyle18.copyWith(color: ColorManager.primary),
+                  textAlign: TextAlign.center,
+                ),
               ),
               Image(
                 height: MediaQuery.of(context).size.height * .14,

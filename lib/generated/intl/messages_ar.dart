@@ -23,8 +23,23 @@ class MessageLookup extends MessageLookupByLibrary {
   final messages = _notInlinedMessages(_notInlinedMessages);
   static Map<String, Function> _notInlinedMessages(_) => <String, Function>{
         "appbartitle": MessageLookupByLibrary.simpleMessage("جودو"),
+        "doctors": MessageLookupByLibrary.simpleMessage("د/انور خطاب "),
+        "hometitle1":
+            MessageLookupByLibrary.simpleMessage("تاريخ رياضة الجودو "),
+        "hometitle2": MessageLookupByLibrary.simpleMessage(
+            "الاوضاع الاساسية في رياضية الجودو\'"),
+        "hometitle3":
+            MessageLookupByLibrary.simpleMessage("اداب وتقاليد رياضة الجودو"),
+        "hometitle4": MessageLookupByLibrary.simpleMessage(
+            "طريقة ارتداء البدلة للمبتدئين"),
+        "hometitle5":
+            MessageLookupByLibrary.simpleMessage("اهمية الاحماء للاعبي الجودو"),
+        "hometitle6": MessageLookupByLibrary.simpleMessage(
+            "اهم مهارات اللعب من اعلي للاعبي الجودو"),
+        "hometitle7":
+            MessageLookupByLibrary.simpleMessage("مصطلحات رياضية الجودو"),
         "programmers": MessageLookupByLibrary.simpleMessage(
-            "تمت البرمجة بواسطة : حسام علي"),
+            " تمت البرمجة بواسطة : حسام علي و يوسف مدحت و خالد احمد و ابانوب عماد"),
         "scree5paragraph1": MessageLookupByLibrary.simpleMessage(
             "   الجهد الكبير الذي يقع على عضلات اللاعب عند تنفيذ المجهود البدني يتطلب استخدام كمية إضافية من الأوكسجين , وهذا يأتي بتنظيم عملية التنفس وزيادة سرعته , وكذلك سرعة الدورة الدموية , إن زيادة الجهد البدني وحركات الجسم تسير جنباً إلى جنب مع زيادة عملة التمثيل الغذائي للجسم , وتكيف أجهزة الجسم نفسها تبعاً للظروف الخارجية التي تتصل بحركات اللاعب ومجهوده ."),
         "scree5paragraph2": MessageLookupByLibrary.simpleMessage(
@@ -312,6 +327,11 @@ class MessageLookup extends MessageLookupByLibrary {
             MessageLookupByLibrary.simpleMessage("صورة توضيحية للمصطلح"),
         "screen7title": MessageLookupByLibrary.simpleMessage(
             "بعض المطلحات الخاصة برياضة الجودو :"),
-        "title": MessageLookupByLibrary.simpleMessage("اهلا وسهلا")
+        "splashscreendialog1":
+            MessageLookupByLibrary.simpleMessage("التصميم بواسطة :"),
+        "splashscreendialog2": MessageLookupByLibrary.simpleMessage(" "),
+        "students":
+            MessageLookupByLibrary.simpleMessage(" الطالب / احمد مصطفي"),
+        "title": MessageLookupByLibrary.simpleMessage("اهلا وسهلا...")
       };
 }

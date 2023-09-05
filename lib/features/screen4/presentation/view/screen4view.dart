@@ -7,7 +7,6 @@ import 'widgets/wear_jacket.dart';
 import 'widgets/wear_pants.dart';
 import 'widgets/wear_suit.dart';
 
-
 class Screen4View extends StatelessWidget {
   const Screen4View({super.key});
 
@@ -20,6 +19,7 @@ class Screen4View extends StatelessWidget {
       child: Padding(
         padding: EdgeInsets.all(8.0),
         child: SingleChildScrollView(
+          physics: BouncingScrollPhysics(),
           child: Column(
             crossAxisAlignment: CrossAxisAlignment.start,
             children: [
@@ -36,10 +36,3 @@ class Screen4View extends StatelessWidget {
     )));
   }
 }
-
-
-
-
-
-
-

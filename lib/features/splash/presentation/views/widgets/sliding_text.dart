@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:judo_app/core/utliz/stayles.dart';
+import 'package:judo_app/generated/l10n.dart';
 
 class SlidingText extends StatelessWidget {
   const SlidingText({
@@ -19,27 +20,22 @@ class SlidingText extends StatelessWidget {
             child: Column(
               children: [
                 Text(
-                  'التصميم بواسطة :',
+                  S.of(context).splashscreendialog1,
                   textAlign: TextAlign.center,
                   style: Styles.textStyle18,
                 ),
                 Text(
-                  ' د/انور خطاب  ',
+                  S.of(context).doctors,
                   textAlign: TextAlign.center,
                   style: Styles.textStyle18,
                 ),
                 Text(
-                  '   د/احمد مصطفي',
+                  S.of(context).students,
                   textAlign: TextAlign.center,
                   style: Styles.textStyle18,
                 ),
                 Text(
-                  'تمت البرمجة بواسطة : ',
-                  textAlign: TextAlign.center,
-                  style: Styles.textStyle18,
-                ),
-                Text(
-                  'حسام علي',
+                  S.of(context).programmers,
                   textAlign: TextAlign.center,
                   style: Styles.textStyle18,
                 )

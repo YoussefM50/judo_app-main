@@ -17,6 +17,7 @@ class Screen5View extends StatelessWidget {
       body: Padding(
         padding: EdgeInsets.all(8.0),
         child: SingleChildScrollView(
+           physics:  BouncingScrollPhysics(),
           child: Column(
             crossAxisAlignment: CrossAxisAlignment.start,
             children: [

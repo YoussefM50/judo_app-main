@@ -23,8 +23,22 @@ class MessageLookup extends MessageLookupByLibrary {
   final messages = _notInlinedMessages(_notInlinedMessages);
   static Map<String, Function> _notInlinedMessages(_) => <String, Function>{
         "appbartitle": MessageLookupByLibrary.simpleMessage("Judo"),
+        "doctors": MessageLookupByLibrary.simpleMessage("Dr/ Anwar Khatab"),
+        "hometitle1": MessageLookupByLibrary.simpleMessage("History of Judo"),
+        "hometitle2":
+            MessageLookupByLibrary.simpleMessage("Basic positions in judo"),
+        "hometitle3": MessageLookupByLibrary.simpleMessage(
+            "Etiquette and traditions of judo"),
+        "hometitle4": MessageLookupByLibrary.simpleMessage(
+            "How to wear a suit for beginners"),
+        "hometitle5": MessageLookupByLibrary.simpleMessage(
+            "The importance of warming up for judo players"),
+        "hometitle6": MessageLookupByLibrary.simpleMessage(
+            "The most important playing skills for judo players"),
+        "hometitle7":
+            MessageLookupByLibrary.simpleMessage("Judo sports terminology"),
         "programmers": MessageLookupByLibrary.simpleMessage(
-            "Programmed by Eng/ Hossam Ali"),
+            "Programmed by Eng/ Hossam Ali, Youssef Medhat, Khaled Ahmed and Abanoub Emad"),
         "scree5paragraph1": MessageLookupByLibrary.simpleMessage(
             "The great effort placed on the player\'s muscles when executing physical effort requires the use of an additional amount of oxygen, and this comes with regulating the breathing process and increasing its speed, as well as the speed of blood circulation. Increasing physical effort and body movements go hand in hand with increasing the metabolic process.\' Nutrition for the body, and the body’s systems adapt themselves depending on the external conditions related to the player’s movements and efforts."),
         "scree5paragraph2": MessageLookupByLibrary.simpleMessage(
@@ -307,6 +321,11 @@ class MessageLookup extends MessageLookupByLibrary {
             MessageLookupByLibrary.simpleMessage("صورة توضيحية للمصطلح"),
         "screen7title": MessageLookupByLibrary.simpleMessage(
             "بعض المطلحات الخاصة برياضة الجودو :"),
-        "title": MessageLookupByLibrary.simpleMessage("Hello World")
+        "splashscreendialog1":
+            MessageLookupByLibrary.simpleMessage("Designed by"),
+        "splashscreendialog2": MessageLookupByLibrary.simpleMessage(""),
+        "students":
+            MessageLookupByLibrary.simpleMessage("student : Ahmed Mostafa"),
+        "title": MessageLookupByLibrary.simpleMessage("Hello...")
       };
 }

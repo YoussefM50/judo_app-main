@@ -17,7 +17,7 @@ class ScreensListView extends StatelessWidget {
             GoRouter.of(context).push('/screen${index + 1}View');
           },
           child: ScreensListViewItem(
-            text: titlesListView[index],
+            text: titlesListView(context)[index],
             image: images[index],
           ),
         );
