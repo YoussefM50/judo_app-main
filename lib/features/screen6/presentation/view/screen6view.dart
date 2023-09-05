@@ -7,6 +7,6 @@ class Screen6View extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return Screen6ViewBody();
+    return const Screen6ViewBody();
   }
 }
