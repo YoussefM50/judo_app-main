@@ -269,6 +269,476 @@ class S {
       args: [],
     );
   }
+
+  /// `Some throwing skills from above in judo:-`
+  String get screen6title {
+    return Intl.message(
+      'Some throwing skills from above in judo:-',
+      name: 'screen6title',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `di ashi bray`
+  String get screen6type1 {
+    return Intl.message(
+      'di ashi bray',
+      name: 'screen6type1',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `دي اشي براي`
+  String get screen6type2 {
+    return Intl.message(
+      'دي اشي براي',
+      name: 'screen6type2',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `دي اشي براي`
+  String get screen6type3 {
+    return Intl.message(
+      'دي اشي براي',
+      name: 'screen6type3',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `دي اشي براي`
+  String get screen6type4 {
+    return Intl.message(
+      'دي اشي براي',
+      name: 'screen6type4',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `دي اشي براي`
+  String get screen6type5 {
+    return Intl.message(
+      'دي اشي براي',
+      name: 'screen6type5',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `دي اشي براي`
+  String get screen6type6 {
+    return Intl.message(
+      'دي اشي براي',
+      name: 'screen6type6',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `دي اشي براي`
+  String get screen6type7 {
+    return Intl.message(
+      'دي اشي براي',
+      name: 'screen6type7',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `دي اشي براي`
+  String get screen6type8 {
+    return Intl.message(
+      'دي اشي براي',
+      name: 'screen6type8',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `دي اشي براي`
+  String get screen6type9 {
+    return Intl.message(
+      'دي اشي براي',
+      name: 'screen6type9',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `دي اشي براي`
+  String get screen6type10 {
+    return Intl.message(
+      'دي اشي براي',
+      name: 'screen6type10',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `دي اشي براي`
+  String get screen6type11 {
+    return Intl.message(
+      'دي اشي براي',
+      name: 'screen6type11',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `دي اشي براي`
+  String get screen6type12 {
+    return Intl.message(
+      'دي اشي براي',
+      name: 'screen6type12',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `دي اشي براي`
+  String get screen6type13 {
+    return Intl.message(
+      'دي اشي براي',
+      name: 'screen6type13',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `دي اشي براي`
+  String get screen6type14 {
+    return Intl.message(
+      'دي اشي براي',
+      name: 'screen6type14',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `دي اشي براي`
+  String get screen6type15 {
+    return Intl.message(
+      'دي اشي براي',
+      name: 'screen6type15',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `دي اشي براي`
+  String get screen6type16 {
+    return Intl.message(
+      'دي اشي براي',
+      name: 'screen6type16',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `دي اشي براي`
+  String get screen6type17 {
+    return Intl.message(
+      'دي اشي براي',
+      name: 'screen6type17',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `دي اشي براي`
+  String get screen6type18 {
+    return Intl.message(
+      'دي اشي براي',
+      name: 'screen6type18',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `دي اشي براي`
+  String get screen6type19 {
+    return Intl.message(
+      'دي اشي براي',
+      name: 'screen6type19',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `دي اشي براي`
+  String get screen6type20 {
+    return Intl.message(
+      'دي اشي براي',
+      name: 'screen6type20',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `دي اشي براي`
+  String get screen6type21 {
+    return Intl.message(
+      'دي اشي براي',
+      name: 'screen6type21',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `دي اشي براي`
+  String get screen6type22 {
+    return Intl.message(
+      'دي اشي براي',
+      name: 'screen6type22',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `دي اشي براي`
+  String get screen6type23 {
+    return Intl.message(
+      'دي اشي براي',
+      name: 'screen6type23',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `دي اشي براي`
+  String get screen6type24 {
+    return Intl.message(
+      'دي اشي براي',
+      name: 'screen6type24',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `دي اشي براي`
+  String get screen6type25 {
+    return Intl.message(
+      'دي اشي براي',
+      name: 'screen6type25',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `دي اشي براي`
+  String get screen6type26 {
+    return Intl.message(
+      'دي اشي براي',
+      name: 'screen6type26',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `دي اشي براي`
+  String get screen6type27 {
+    return Intl.message(
+      'دي اشي براي',
+      name: 'screen6type27',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `دي اشي براي`
+  String get screen6type28 {
+    return Intl.message(
+      'دي اشي براي',
+      name: 'screen6type28',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `دي اشي براي`
+  String get screen6type29 {
+    return Intl.message(
+      'دي اشي براي',
+      name: 'screen6type29',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `دي اشي براي`
+  String get screen6type30 {
+    return Intl.message(
+      'دي اشي براي',
+      name: 'screen6type30',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `دي اشي براي`
+  String get screen6type31 {
+    return Intl.message(
+      'دي اشي براي',
+      name: 'screen6type31',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `دي اشي براي`
+  String get screen6type32 {
+    return Intl.message(
+      'دي اشي براي',
+      name: 'screen6type32',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `دي اشي براي`
+  String get screen6type33 {
+    return Intl.message(
+      'دي اشي براي',
+      name: 'screen6type33',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `دي اشي براي`
+  String get screen6type34 {
+    return Intl.message(
+      'دي اشي براي',
+      name: 'screen6type34',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `دي اشي براي`
+  String get screen6type35 {
+    return Intl.message(
+      'دي اشي براي',
+      name: 'screen6type35',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `دي اشي براي`
+  String get screen6type36 {
+    return Intl.message(
+      'دي اشي براي',
+      name: 'screen6type36',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `دي اشي براي`
+  String get screen6type37 {
+    return Intl.message(
+      'دي اشي براي',
+      name: 'screen6type37',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `دي اشي براي`
+  String get screen6type38 {
+    return Intl.message(
+      'دي اشي براي',
+      name: 'screen6type38',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `دي اشي براي`
+  String get screen6type39 {
+    return Intl.message(
+      'دي اشي براي',
+      name: 'screen6type39',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `دي اشي براي`
+  String get screen6type40 {
+    return Intl.message(
+      'دي اشي براي',
+      name: 'screen6type40',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `دي اشي براي`
+  String get screen6type41 {
+    return Intl.message(
+      'دي اشي براي',
+      name: 'screen6type41',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `دي اشي براي`
+  String get screen6type42 {
+    return Intl.message(
+      'دي اشي براي',
+      name: 'screen6type42',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `دي اشي براي`
+  String get screen6type43 {
+    return Intl.message(
+      'دي اشي براي',
+      name: 'screen6type43',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `دي اشي براي`
+  String get screen6type44 {
+    return Intl.message(
+      'دي اشي براي',
+      name: 'screen6type44',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `دي اشي براي`
+  String get screen6type45 {
+    return Intl.message(
+      'دي اشي براي',
+      name: 'screen6type45',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `دي اشي براي`
+  String get screen6type46 {
+    return Intl.message(
+      'دي اشي براي',
+      name: 'screen6type46',
+      desc: '',
+      args: [],
+    );
+  }
 }
 
 class AppLocalizationDelegate extends LocalizationsDelegate<S> {
