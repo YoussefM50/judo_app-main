@@ -12,6 +12,7 @@ class Intro2Screen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Column(
+      crossAxisAlignment: CrossAxisAlignment.start,
       children: [
         Text(
           S.of(context).screen5title,

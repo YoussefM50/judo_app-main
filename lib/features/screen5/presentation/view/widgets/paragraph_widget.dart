@@ -11,6 +11,7 @@ class Screen5Paragraph extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Column(
+      crossAxisAlignment: CrossAxisAlignment.start,
       children: [
         Text(
           S.of(context).scree5paragraph1,

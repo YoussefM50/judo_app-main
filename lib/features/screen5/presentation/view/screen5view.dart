@@ -17,35 +17,31 @@ class Screen5View extends StatelessWidget {
       body: Padding(
         padding: EdgeInsets.all(8.0),
         child: SingleChildScrollView(
-          child:
-              Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
-            Intro2Screen(),
-            Screen5Paragraph(),
-            Section1(),
-            SizedBox(
-              height: 10,
-            ),
-            Section2(),
-            SizedBox(
-              height: 10,
-            ),
-            Section3(),
-            SizedBox(
-              height: 10,
-            ),
-            Section4(),
-            SizedBox(
-              height: 10,
-            ),
-          ]),
+          child: Column(
+            crossAxisAlignment: CrossAxisAlignment.start,
+            children: [
+              Intro2Screen(),
+              Screen5Paragraph(),
+              Section1(),
+              SizedBox(
+                height: 10,
+              ),
+              Section2(),
+              SizedBox(
+                height: 10,
+              ),
+              Section3(),
+              SizedBox(
+                height: 10,
+              ),
+              Section4(),
+              SizedBox(
+                height: 10,
+              ),
+            ],
+          ),
         ),
       ),
     ));
   }
 }
-
-
-
-
-
-
