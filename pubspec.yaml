@@ -42,6 +42,7 @@ dev_dependencies:
   flutter_lints: ^2.0.0
   flutter_test:
     sdk: flutter
+  flutter_launcher_icons:  
 flutter_assets:
   assets_path: assets/images
   output_path: lib/core/utliz
@@ -50,6 +51,11 @@ flutter_assets:
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
 # The following section is specific to Flutter packages.
+
+flutter_launcher_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/images/logo.jpg"
 flutter:
 
   # The following line ensures that the Material Icons font is
