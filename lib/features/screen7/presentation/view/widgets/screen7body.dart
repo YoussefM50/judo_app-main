@@ -178,7 +178,7 @@ class Screen7ViewBody extends StatelessWidget {
                           Jaterm[index],
                           style: Styles.textStyle20,
                         )),
-                        DataCell(Container(
+                        DataCell(SizedBox(
                             width: double.infinity, child: imgs[index])),
                       ]);
                     })),
