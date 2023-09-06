@@ -113,11 +113,12 @@ class Screen7ViewBody extends StatelessWidget {
         body: Padding(
           padding: const EdgeInsets.all(16),
           child: Column(
+            crossAxisAlignment: CrossAxisAlignment.start,
             children: [
               SizedBox(
                 height: 60,
                 child: Text(
-                  'بعض المطلحات الخاصة برياضة الجودو :',
+                  S.of(context).screen7title,
                   style: Styles.textStyle28,
                 ),
               ),
@@ -139,7 +140,9 @@ class Screen7ViewBody extends StatelessWidget {
                         MaterialStateProperty.all(ColorManager.lightPrimary),
                     dataTextStyle: Styles.textStyle20,
                     columns: [
-                      const DataColumn2(label: Text('م'), fixedWidth: 30),
+                      DataColumn2(
+                          label: Text(S.of(context).screen7num),
+                          fixedWidth: 30),
                       DataColumn2(
                         label: Text(
                           S.of(context).screen7subtitle1,

@@ -319,6 +319,7 @@ class MessageLookup extends MessageLookupByLibrary {
         "screen7japaneseterm7": MessageLookupByLibrary.simpleMessage("تاتامي"),
         "screen7japaneseterm8": MessageLookupByLibrary.simpleMessage("تي"),
         "screen7japaneseterm9": MessageLookupByLibrary.simpleMessage("جوشي"),
+        "screen7num": MessageLookupByLibrary.simpleMessage("م"),
         "screen7subtitle1":
             MessageLookupByLibrary.simpleMessage("المصطلح باللغة العربية"),
         "screen7subtitle2":
