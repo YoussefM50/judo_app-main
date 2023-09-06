@@ -19,7 +19,6 @@ class Screen2ViewBody extends StatelessWidget {
             children: [
               Text(
                 S.of(context).screen2text1,
-                textAlign: TextAlign.right,
                 style: Styles.textStyle28,
               ),
               const SizedBox(
@@ -34,7 +33,6 @@ class Screen2ViewBody extends StatelessWidget {
               ),
               Text(
                 S.of(context).screen2text3,
-                textAlign: TextAlign.right,
                 style: Styles.textStyle28,
               ),
               const SizedBox(
@@ -49,12 +47,10 @@ class Screen2ViewBody extends StatelessWidget {
               ),
               Text(
                 S.of(context).screen2text5,
-                textAlign: TextAlign.right,
                 style: Styles.textStyle28,
               ),
               Text(
                 S.of(context).screen2text6,
-                textAlign: TextAlign.right,
                 style: Styles.textStyle28,
               ),
               const SizedBox(
@@ -68,8 +64,7 @@ class Screen2ViewBody extends StatelessWidget {
                 height: 20,
               ),
               Text(
-               S.of(context).screen2text7,
-                textAlign: TextAlign.right,
+                S.of(context).screen2text7,
                 style: Styles.textStyle28,
               ),
               const SizedBox(
@@ -84,7 +79,6 @@ class Screen2ViewBody extends StatelessWidget {
               ),
               Text(
                 S.of(context).screen2text8,
-                textAlign: TextAlign.right,
                 style: Styles.textStyle28,
               ),
               const SizedBox(
@@ -96,7 +90,6 @@ class Screen2ViewBody extends StatelessWidget {
               ),
               Text(
                 S.of(context).screen2text10,
-                textAlign: TextAlign.right,
                 style: Styles.textStyle28,
               ),
               Text(
@@ -115,15 +108,14 @@ class Screen2ViewBody extends StatelessWidget {
                 height: 20,
               ),
               Text(
-  S.of(context).screen2text12,
-                textAlign: TextAlign.right,
+                S.of(context).screen2text12,
                 style: Styles.textStyle28,
               ),
               const SizedBox(
                 height: 5,
               ),
               Text(
-                  S.of(context).screen2text13,
+                S.of(context).screen2text13,
                 style: Styles.textStyle20,
               ),
               const SizedBox(
@@ -138,131 +130,133 @@ class Screen2ViewBody extends StatelessWidget {
                 height: 20,
               ),
               Text(
-  S.of(context).screen2text14,                textAlign: TextAlign.right,
+                S.of(context).screen2text14,
                 style: Styles.textStyle28,
               ),
               const SizedBox(
                 height: 5,
               ),
               Text(
-                  S.of(context).screen2text15,
+                S.of(context).screen2text15,
                 style: Styles.textStyle20,
               ),
               const SizedBox(
                 height: 5,
               ),
               Text(
-                  S.of(context).screen2text16,
+                S.of(context).screen2text16,
                 style: Styles.textStyle20,
               ),
               const SizedBox(
                 height: 5,
               ),
               Text(
-                  S.of(context).screen2text17,
+                S.of(context).screen2text17,
                 style: Styles.textStyle20,
               ),
               const SizedBox(
                 height: 5,
               ),
               Text(
-                  S.of(context).screen2text18,
+                S.of(context).screen2text18,
                 style: Styles.textStyle20,
               ),
               const SizedBox(
                 height: 5,
               ),
               Text(
-                  S.of(context).screen2text19,
+                S.of(context).screen2text19,
                 style: Styles.textStyle20,
               ),
               const SizedBox(
                 height: 5,
               ),
               Text(
-                  S.of(context).screen2text20,
+                S.of(context).screen2text20,
                 style: Styles.textStyle20,
               ),
               const SizedBox(
                 height: 5,
               ),
               Text(
-                  S.of(context).screen2text21,
-                style: Styles.textStyle20,
-              ),
-              const SizedBox(
-                height: 20,
-              ),
-              Text(
-  S.of(context).screen2text22,                style: Styles.textStyle28,
-              ),
-              const SizedBox(
-                height: 5,
-              ),
-              Text(
-                S.of(context).screen2text23,  
-                style: Styles.textStyle20,
-              ),
-              const SizedBox(
-                height: 5,
-              ),
-              Text(
-                S.of(context).screen2text24,  
-                style: Styles.textStyle20,
-              ),
-              const SizedBox(
-                height: 5,
-              ),
-              Text(
-S.of(context).screen2text25,                  style: Styles.textStyle20,
-              ),
-              const SizedBox(
-                height: 5,
-              ),
-              Text(
-                S.of(context).screen2text26,  
-                style: Styles.textStyle20,
-              ),
-              const SizedBox(
-                height: 5,
-              ),
-              Text(
-                S.of(context).screen2text27,  
-                style: Styles.textStyle20,
-              ),
-              const SizedBox(
-                height: 5,
-              ),
-              Text(
-                S.of(context).screen2text28,  
-                style: Styles.textStyle20,
-              ),
-              const SizedBox(
-                height: 5,
-              ),
-              Text(
-                S.of(context).screen2text29,  
-                style: Styles.textStyle20,
-              ),
-              const SizedBox(
-                height: 5,
-              ),
-              Text(
-                S.of(context).screen2text30,  
+                S.of(context).screen2text21,
                 style: Styles.textStyle20,
               ),
               const SizedBox(
                 height: 20,
               ),
               Text(
-                S.of(context).screen2text31,  
+                S.of(context).screen2text22,
                 style: Styles.textStyle28,
               ),
               const SizedBox(
                 height: 5,
               ),
               Text(
-                S.of(context).screen2text32,  
+                S.of(context).screen2text23,
+                style: Styles.textStyle20,
+              ),
+              const SizedBox(
+                height: 5,
+              ),
+              Text(
+                S.of(context).screen2text24,
+                style: Styles.textStyle20,
+              ),
+              const SizedBox(
+                height: 5,
+              ),
+              Text(
+                S.of(context).screen2text25,
+                style: Styles.textStyle20,
+              ),
+              const SizedBox(
+                height: 5,
+              ),
+              Text(
+                S.of(context).screen2text26,
+                style: Styles.textStyle20,
+              ),
+              const SizedBox(
+                height: 5,
+              ),
+              Text(
+                S.of(context).screen2text27,
+                style: Styles.textStyle20,
+              ),
+              const SizedBox(
+                height: 5,
+              ),
+              Text(
+                S.of(context).screen2text28,
+                style: Styles.textStyle20,
+              ),
+              const SizedBox(
+                height: 5,
+              ),
+              Text(
+                S.of(context).screen2text29,
+                style: Styles.textStyle20,
+              ),
+              const SizedBox(
+                height: 5,
+              ),
+              Text(
+                S.of(context).screen2text30,
+                style: Styles.textStyle20,
+              ),
+              const SizedBox(
+                height: 20,
+              ),
+              Text(
+                S.of(context).screen2text31,
+                style: Styles.textStyle28,
+              ),
+              const SizedBox(
+                height: 5,
+              ),
+              Text(
+                S.of(context).screen2text32,
                 style: Styles.textStyle28,
               ),
               const SizedBox(
@@ -280,8 +274,7 @@ S.of(context).screen2text25,                  style: Styles.textStyle20,
                 height: 5,
               ),
               Text(
-                                S.of(context).screen2text36,
-
+                S.of(context).screen2text36,
                 style: Styles.textStyle28,
               ),
               const SizedBox(
