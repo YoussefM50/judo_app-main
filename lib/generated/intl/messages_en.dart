@@ -113,6 +113,30 @@ class MessageLookup extends MessageLookupByLibrary {
             "E - the optimal use of forces:"),
         "screen1subtitle9": MessageLookupByLibrary.simpleMessage(
             "F- Judo works to achieve the psychological aspects :"),
+        "screen3dialog1": MessageLookupByLibrary.simpleMessage(
+            "The sport of judo has long traditions that have been known since ancient times and were inherited from the ancient Japanese, along with a law that regulates its practitioners. Among these traditions are what the law explicitly stipulates, including what is not stipulated by the law, but at the same time it is the force of the law and one of the most important of these traditions."),
+        "screen3dialog10": MessageLookupByLibrary.simpleMessage(
+            "The rug prepared for training must be constantly clean."),
+        "screen3dialog11": MessageLookupByLibrary.simpleMessage(
+            "The player should not be reckless in using the arts of the game during training or competition."),
+        "screen3dialog2": MessageLookupByLibrary.simpleMessage(
+            "The need to respect the training place (dojo) at all times, just as we respect our home and places that deserve respect."),
+        "screen3dialog3": MessageLookupByLibrary.simpleMessage(
+            "The need to keep the feet clean and not to wear shoes on the rug, and it is also necessary to wear (bath slippers) outside the rug so that the dust does not stick to the feet."),
+        "screen3dialog4": MessageLookupByLibrary.simpleMessage(
+            "Performing salutations when entering and exiting the rug. The salutation is also performed upon exiting the hall, when playing with a colleague, the organizing committee of the tournament, before and after the match (Shia) or during training and exercise (Randori), and it must be the legitimate salutation."),
+        "screen3dialog5": MessageLookupByLibrary.simpleMessage(
+            "Sitting on the rug during training and competitions should be in a standard form of Japanese customs (sitting kneeling - sitting square.)"),
+        "screen3dialog6": MessageLookupByLibrary.simpleMessage(
+            "The player must respect his coaches, obey their instructions and instructions, be loyal to them, and not object to the referee\'s decisions."),
+        "screen3dialog7": MessageLookupByLibrary.simpleMessage(
+            " Attention should be paid to personal hygiene, including attention to the cleanliness of the suit, and the nails of the hands and feet should be short."),
+        "screen3dialog8": MessageLookupByLibrary.simpleMessage(
+            "Not wearing any solid object such as rings, watches or wristbands that expose the competitor to danger."),
+        "screen3dialog9": MessageLookupByLibrary.simpleMessage(
+            "Ensuring the safety of the player by conducting periodic medical examinations to ensure that he is free of infectious diseases."),
+        "screen3title": MessageLookupByLibrary.simpleMessage(
+            "Judo etiquette and traditions :"),
         "screen4descreption1": MessageLookupByLibrary.simpleMessage(
             "Before starting training or competition, we must wear the suit well. We will show how to wear the suit. We must wear the pants first, then the jacket, then the belt, as follows:-"),
         "screen4subtitle1": MessageLookupByLibrary.simpleMessage(

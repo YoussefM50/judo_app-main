@@ -1969,6 +1969,126 @@ class S {
       args: [],
     );
   }
+
+  /// `Judo etiquette and traditions :`
+  String get screen3title {
+    return Intl.message(
+      'Judo etiquette and traditions :',
+      name: 'screen3title',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `The sport of judo has long traditions that have been known since ancient times and were inherited from the ancient Japanese, along with a law that regulates its practitioners. Among these traditions are what the law explicitly stipulates, including what is not stipulated by the law, but at the same time it is the force of the law and one of the most important of these traditions.`
+  String get screen3dialog1 {
+    return Intl.message(
+      'The sport of judo has long traditions that have been known since ancient times and were inherited from the ancient Japanese, along with a law that regulates its practitioners. Among these traditions are what the law explicitly stipulates, including what is not stipulated by the law, but at the same time it is the force of the law and one of the most important of these traditions.',
+      name: 'screen3dialog1',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `The need to respect the training place (dojo) at all times, just as we respect our home and places that deserve respect.`
+  String get screen3dialog2 {
+    return Intl.message(
+      'The need to respect the training place (dojo) at all times, just as we respect our home and places that deserve respect.',
+      name: 'screen3dialog2',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `The need to keep the feet clean and not to wear shoes on the rug, and it is also necessary to wear (bath slippers) outside the rug so that the dust does not stick to the feet.`
+  String get screen3dialog3 {
+    return Intl.message(
+      'The need to keep the feet clean and not to wear shoes on the rug, and it is also necessary to wear (bath slippers) outside the rug so that the dust does not stick to the feet.',
+      name: 'screen3dialog3',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `Performing salutations when entering and exiting the rug. The salutation is also performed upon exiting the hall, when playing with a colleague, the organizing committee of the tournament, before and after the match (Shia) or during training and exercise (Randori), and it must be the legitimate salutation.`
+  String get screen3dialog4 {
+    return Intl.message(
+      'Performing salutations when entering and exiting the rug. The salutation is also performed upon exiting the hall, when playing with a colleague, the organizing committee of the tournament, before and after the match (Shia) or during training and exercise (Randori), and it must be the legitimate salutation.',
+      name: 'screen3dialog4',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `Sitting on the rug during training and competitions should be in a standard form of Japanese customs (sitting kneeling - sitting square.)`
+  String get screen3dialog5 {
+    return Intl.message(
+      'Sitting on the rug during training and competitions should be in a standard form of Japanese customs (sitting kneeling - sitting square.)',
+      name: 'screen3dialog5',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `The player must respect his coaches, obey their instructions and instructions, be loyal to them, and not object to the referee's decisions.`
+  String get screen3dialog6 {
+    return Intl.message(
+      'The player must respect his coaches, obey their instructions and instructions, be loyal to them, and not object to the referee\'s decisions.',
+      name: 'screen3dialog6',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// ` Attention should be paid to personal hygiene, including attention to the cleanliness of the suit, and the nails of the hands and feet should be short.`
+  String get screen3dialog7 {
+    return Intl.message(
+      ' Attention should be paid to personal hygiene, including attention to the cleanliness of the suit, and the nails of the hands and feet should be short.',
+      name: 'screen3dialog7',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `Not wearing any solid object such as rings, watches or wristbands that expose the competitor to danger.`
+  String get screen3dialog8 {
+    return Intl.message(
+      'Not wearing any solid object such as rings, watches or wristbands that expose the competitor to danger.',
+      name: 'screen3dialog8',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `Ensuring the safety of the player by conducting periodic medical examinations to ensure that he is free of infectious diseases.`
+  String get screen3dialog9 {
+    return Intl.message(
+      'Ensuring the safety of the player by conducting periodic medical examinations to ensure that he is free of infectious diseases.',
+      name: 'screen3dialog9',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `The rug prepared for training must be constantly clean.`
+  String get screen3dialog10 {
+    return Intl.message(
+      'The rug prepared for training must be constantly clean.',
+      name: 'screen3dialog10',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `The player should not be reckless in using the arts of the game during training or competition.`
+  String get screen3dialog11 {
+    return Intl.message(
+      'The player should not be reckless in using the arts of the game during training or competition.',
+      name: 'screen3dialog11',
+      desc: '',
+      args: [],
+    );
+  }
 }
 
 class AppLocalizationDelegate extends LocalizationsDelegate<S> {

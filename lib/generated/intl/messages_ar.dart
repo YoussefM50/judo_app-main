@@ -114,6 +114,30 @@ class MessageLookup extends MessageLookupByLibrary {
             "هـ - الاستخدام الامثل للقوى:-"),
         "screen1subtitle9": MessageLookupByLibrary.simpleMessage(
             "و- الجودو يعمل على تحقيق الجوانب النفسية:-"),
+        "screen3dialog1": MessageLookupByLibrary.simpleMessage(
+            "لرياضة الجودو تقاليد عريقة عرفت منذ قديم الزمن ورثت عن اليابانيين القدماء الى جانب قانون ينظم ممارسها ومن هذة التقاليد ما ينص عليها القانون صريحة ومنها مالم ينص عليه القانون ولكنة فى نفس الوقت قوة القانون ومن اهم هذة التقاليد."),
+        "screen3dialog10": MessageLookupByLibrary.simpleMessage(
+            "يجب ان يكون البساط المعد للتدريب نظيفا بإستمرار."),
+        "screen3dialog11": MessageLookupByLibrary.simpleMessage(
+            "على اللاعب عدم التهور فى استعمال فنون اللعبةاثناءالتدريب او المنافسة."),
+        "screen3dialog2": MessageLookupByLibrary.simpleMessage(
+            "ضرورة احترام مكان التدريب (دوجو) فى جميع الاوقات تماما كاحترامنا لمنزلنا والأماكن المستحقة للإحترام."),
+        "screen3dialog3": MessageLookupByLibrary.simpleMessage(
+            "ضرورة الاحتفاظ بالاقدام نظيفة وعدم ارتداء احذية على البساط كما يجب ارتداء(شبشب حمام) خارج البساط حتى لا تتعلق الاتربة بالقدمين."),
+        "screen3dialog4": MessageLookupByLibrary.simpleMessage(
+            "تأدية التحية عند دخول البساط و الخروج منه كذلك تؤدى التحية عند الخروج من الصالة وعند اللعب مع الزميل و للجنة المنظمة للبطولة وقبل و بعد المباراة (شياى) او اثناء التدريب و التمرين (راندورى) ويجب أن تكون التحية المشروعة."),
+        "screen3dialog5": MessageLookupByLibrary.simpleMessage(
+            "يجب ان يكون الجلوس على البساط اثناء التدريب و المسابقات فى شكل موحد للعادات اليابانية (جلوس الجثو- الجلوس تربيع.("),
+        "screen3dialog6": MessageLookupByLibrary.simpleMessage(
+            "يجب على اللاعب احترام مدربيه و يطيع تعليماتهم وارشاداتهم و يكن لهم الولاء ولايعترض على قرارات الحكم."),
+        "screen3dialog7": MessageLookupByLibrary.simpleMessage(
+            "يجب الاهتمام بالنظافة الشخصية و منها الاهتمام بنظافة البدلة وان تكون اظافر اليديين و القدمين قصيرة."),
+        "screen3dialog8": MessageLookupByLibrary.simpleMessage(
+            "عدم ارتداء اى جسم صلب كالخواتم والساعات واساور المعصم التى تعرض المنافس للخطر."),
+        "screen3dialog9": MessageLookupByLibrary.simpleMessage(
+            "التاكد من سلامة اللاعب وذلك بإجراءالكشف الطبى الدورى للتأكد من خلوه من الامراض المعدية."),
+        "screen3title": MessageLookupByLibrary.simpleMessage(
+            "اداب و تقاليد رياضة الجودو:-"),
         "screen4descreption1": MessageLookupByLibrary.simpleMessage(
             "يجب علينا قبل البدء في التدريب او المنافسة ارتداء البدلة جيداً وسوف نعرض طريقة ارتداء البدلة ويجب ارتداء البنطلون اولاً ثم السترة ثم الحزام كما بالطريقة التالية:-"),
         "screen4subtitle1": MessageLookupByLibrary.simpleMessage(
