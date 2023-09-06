@@ -113,6 +113,135 @@ class MessageLookup extends MessageLookupByLibrary {
             "E - the optimal use of forces:"),
         "screen1subtitle9": MessageLookupByLibrary.simpleMessage(
             "F- Judo works to achieve the psychological aspects :"),
+        "screen2text1": MessageLookupByLibrary.simpleMessage(
+            "The basic positions in judo:-"),
+        "screen2text10": MessageLookupByLibrary.simpleMessage(
+            "Attack stance (shizen hon tai):-"),
+        "screen2text11": MessageLookupByLibrary.simpleMessage(
+            "We do it so that the feet are spaced as wide as the pelvis, and the body is in one straight line, looking forward. In the case of the right foot in front, it is called a right attack stance (Meji Shizen Hon Tai), and when the left foot is in front, it is called a left attack stance (Hidari Shizen Hon Tai), as follows:-"),
+        "screen2text12": MessageLookupByLibrary.simpleMessage(
+            "Defensive stance (Jeju Hon Tae):-"),
+        "screen2text13": MessageLookupByLibrary.simpleMessage(
+            "We do it so that the feet are spaced as wide as the pelvis, and the body is in one straight line, looking forward. In the case of the right foot in front, it is called a right attack stance (Meji Shizen Hon Tai), and when the left foot is in front, it is called a left attack stance (Hidari Shizen Hon Tai), as follows:- "),
+        "screen2text14":
+            MessageLookupByLibrary.simpleMessage("Fourth: Holding the suit:-"),
+        "screen2text15": MessageLookupByLibrary.simpleMessage(
+            "There are several ways to hold the suit:-"),
+        "screen2text16": MessageLookupByLibrary.simpleMessage(
+            "The first method: Hold the jacket collar from above with your right hand below the chin and hold the sleeve of the suit with your left hand at the elbow (in the case of a right-handed attack stance)"),
+        "screen2text17": MessageLookupByLibrary.simpleMessage(
+            "The second method: Reversing the previous one (in the case of an offensive stance to the north)"),
+        "screen2text18": MessageLookupByLibrary.simpleMessage(
+            "The third method: Hold the suit collar from behind the competitor\'s neck with the left hand. Hold the sleeve of the suit with the right hand at the elbow joint (in the case of a left attack stance)."),
+        "screen2text19": MessageLookupByLibrary.simpleMessage(
+            "The fourth method: Reverse the previous one in the case of a right-handed offensive stance"),
+        "screen2text2": MessageLookupByLibrary.simpleMessage(
+            "The basic conditions are the backbone of any sports performance that can be achieved in the vicinity of the game, and thus the individual’s training level can be advanced. Without these conditions, we do not wait for any high level to be achieved to reach the championship level, and the basic conditions are considered the basic pillar on which the player depends during his training life ."),
+        "screen2text20": MessageLookupByLibrary.simpleMessage(
+            "Fifth method: The player holds the suit by the collar with both hands, one on the left side and the other on the right side."),
+        "screen2text21": MessageLookupByLibrary.simpleMessage(
+            "Method 6: The player grabs the collar of the jacket and the sleeve from one side, and in this case he must use an attack before five seconds have passed, otherwise he will be warned."),
+        "screen2text22": MessageLookupByLibrary.simpleMessage(
+            "There are some tactical aspects that the coach must take into account when teaching the players to hold the suit:-"),
+        "screen2text23": MessageLookupByLibrary.simpleMessage(
+            "1. The grip should be strong and tight, and have the ability to control and control the opponent\'s movement forward and backward, up and to the sides."),
+        "screen2text24": MessageLookupByLibrary.simpleMessage(
+            "2. The grab is considered a very sensitive means of communication that senses any movement the opponent claims to carry out or any attempt made by the opponent to change his direction."),
+        "screen2text25": MessageLookupByLibrary.simpleMessage(
+            "4. The coach must take care that there is space between the grip and the player’s body when performing the movement so that this does not cause a loss of a large part of the player’s strength and consequently affect the performance."),
+        "screen2text26": MessageLookupByLibrary.simpleMessage(
+            "3. The coach must direct the player to the wrong habits when holding the suit so that they do not harm themselves when falling to the ground or hijacking the movement, and explain to them how to get rid of it."),
+        "screen2text27": MessageLookupByLibrary.simpleMessage(
+            "5. The coach should consider changing the positions of the arms in holding the suit, as there are other ways of holding, for example: holding the jacket with the right hand from the sleeve of the left jacket instead of the collar in front of the chest, or holding the same arm from the collar completely behind the neck, or holding the jacket with the two hands from the bottom of the armpits."),
+        "screen2text28": MessageLookupByLibrary.simpleMessage(
+            "6. Each movement has its own grip, which differs from one movement to another and from one tactic to another. It also differs according to the height and weight of the player facing him. A tall player differs from a short player, and so on."),
+        "screen2text29": MessageLookupByLibrary.simpleMessage(
+            "7. The coach must train the player on holds that do not require a long time so that he can execute the movement as quickly as possible and the referee does not have to issue a warning to him. Example: Holds that allow the player only 5 seconds, such as grabbing the opponent’s jacket and sleeve in the same direction."),
+        "screen2text3": MessageLookupByLibrary.simpleMessage(
+            "The basic positions in judo are:-"),
+        "screen2text30": MessageLookupByLibrary.simpleMessage(
+            "8. It must be noted that the grip of the suit is different in the defensive position than in the offensive position than in the normal position of play, and this varies depending on the defensive and offensive variables while playing with the opponent."),
+        "screen2text31": MessageLookupByLibrary.simpleMessage(
+            "Fifth: Ways and trends of imbalance:-"),
+        "screen2text32": MessageLookupByLibrary.simpleMessage(
+            "There are several trends in imbalance, which are:"),
+        "screen2text33_1": MessageLookupByLibrary.simpleMessage(
+            "Unbalancing the opponent forward."),
+        "screen2text33_2": MessageLookupByLibrary.simpleMessage(
+            "Throwing the opponent off balance backwards"),
+        "screen2text33_3": MessageLookupByLibrary.simpleMessage(
+            "Disrupting the opponent\'s balance to the right side."),
+        "screen2text33_4": MessageLookupByLibrary.simpleMessage(
+            "Disruption of the competitor\'s balance to the left side."),
+        "screen2text33_5": MessageLookupByLibrary.simpleMessage(
+            "Unbalancing the opponent forward and to the right side."),
+        "screen2text33_6": MessageLookupByLibrary.simpleMessage(
+            "Disrupting the competitor\'s balance forward and to the left side."),
+        "screen2text33_7": MessageLookupByLibrary.simpleMessage(
+            "Unbalancing the opponent backwards and to the left side."),
+        "screen2text33_8": MessageLookupByLibrary.simpleMessage(
+            "Honoring the opponent\'s balance behind and to the right side."),
+        "screen2text35":
+            MessageLookupByLibrary.simpleMessage("Sixth: Mistakes (Okimi):-"),
+        "screen2text36": MessageLookupByLibrary.simpleMessage(
+            "These falls are divided into:"),
+        "screen2text37_1": MessageLookupByLibrary.simpleMessage("back fall"),
+        "screen2text37_2": MessageLookupByLibrary.simpleMessage(
+            "Lateral fall (right and left)."),
+        "screen2text37_3":
+            MessageLookupByLibrary.simpleMessage("Frontal fall."),
+        "screen2text37_4":
+            MessageLookupByLibrary.simpleMessage("Circular frontal drop."),
+        "screen2text4_1": MessageLookupByLibrary.simpleMessage("Greetings"),
+        "screen2text4_2":
+            MessageLookupByLibrary.simpleMessage("Move on the rug"),
+        "screen2text4_3":
+            MessageLookupByLibrary.simpleMessage("Standing on the rug"),
+        "screen2text4_4": MessageLookupByLibrary.simpleMessage("Hold the suit"),
+        "screen2text4_5":
+            MessageLookupByLibrary.simpleMessage("Unbalance the competitor"),
+        "screen2text4_6":
+            MessageLookupByLibrary.simpleMessage("Falling on the rug"),
+        "screen2text5":
+            MessageLookupByLibrary.simpleMessage("First: Greeting:"),
+        "screen2text6": MessageLookupByLibrary.simpleMessage(
+            "Greetings from above (Touch Ray)"),
+        "screen2text6_1":
+            MessageLookupByLibrary.simpleMessage("Falling on the rug"),
+        "screen2text6_2": MessageLookupByLibrary.simpleMessage(
+            "The contestants stand face to face"),
+        "screen2text6_3": MessageLookupByLibrary.simpleMessage(
+            "The feet are together and the insteps are apart"),
+        "screen2text6_4": MessageLookupByLibrary.simpleMessage(
+            "The salute is done by leaning the torso forward slightly while moving the hands from the side"),
+        "screen2text6_5":
+            MessageLookupByLibrary.simpleMessage("Look at the competitor"),
+        "screen2text6_6": MessageLookupByLibrary.simpleMessage(
+            "Return to the standing position again"),
+        "screen2text7": MessageLookupByLibrary.simpleMessage(
+            "Greetings from below, Cesare"),
+        "screen2text7_1": MessageLookupByLibrary.simpleMessage(
+            "From standing, place the left knee on the ground"),
+        "screen2text7_2": MessageLookupByLibrary.simpleMessage(
+            "Place the right knee next to the left"),
+        "screen2text7_3": MessageLookupByLibrary.simpleMessage(
+            "Place the instep of the left foot on the right"),
+        "screen2text7_4":
+            MessageLookupByLibrary.simpleMessage("Sitting on the legs"),
+        "screen2text7_5": MessageLookupByLibrary.simpleMessage(
+            "The salute is by leaning the torso forward, placing the hands on the mat and looking at the other competitor"),
+        "screen2text7_6": MessageLookupByLibrary.simpleMessage(
+            "Return to the siza position after saluting"),
+        "screen2text7_7": MessageLookupByLibrary.simpleMessage(
+            "Return to crouching position"),
+        "screen2text7_8":
+            MessageLookupByLibrary.simpleMessage("Unscrew the insteps"),
+        "screen2text7_9": MessageLookupByLibrary.simpleMessage(
+            "The player stands on the right foot first, then the left foot to reach a standing position"),
+        "screen2text8":
+            MessageLookupByLibrary.simpleMessage("Second: Pauses:-"),
+        "screen2text9": MessageLookupByLibrary.simpleMessage(
+            "Poses are considered one of the important basics in judo because standing correctly on the mat helps the player attack and defend in an easy way. There are two types of stances: -"),
         "screen3dialog1": MessageLookupByLibrary.simpleMessage(
             "The sport of judo has long traditions that have been known since ancient times and were inherited from the ancient Japanese, along with a law that regulates its practitioners. Among these traditions are what the law explicitly stipulates, including what is not stipulated by the law, but at the same time it is the force of the law and one of the most important of these traditions."),
         "screen3dialog10": MessageLookupByLibrary.simpleMessage(

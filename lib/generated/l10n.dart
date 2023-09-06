@@ -2089,6 +2089,666 @@ class S {
       args: [],
     );
   }
+
+  /// `The basic positions in judo:-`
+  String get screen2text1 {
+    return Intl.message(
+      'The basic positions in judo:-',
+      name: 'screen2text1',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `The basic conditions are the backbone of any sports performance that can be achieved in the vicinity of the game, and thus the individual’s training level can be advanced. Without these conditions, we do not wait for any high level to be achieved to reach the championship level, and the basic conditions are considered the basic pillar on which the player depends during his training life .`
+  String get screen2text2 {
+    return Intl.message(
+      'The basic conditions are the backbone of any sports performance that can be achieved in the vicinity of the game, and thus the individual’s training level can be advanced. Without these conditions, we do not wait for any high level to be achieved to reach the championship level, and the basic conditions are considered the basic pillar on which the player depends during his training life .',
+      name: 'screen2text2',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `The basic positions in judo are:-`
+  String get screen2text3 {
+    return Intl.message(
+      'The basic positions in judo are:-',
+      name: 'screen2text3',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `Greetings`
+  String get screen2text4_1 {
+    return Intl.message(
+      'Greetings',
+      name: 'screen2text4_1',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `Move on the rug`
+  String get screen2text4_2 {
+    return Intl.message(
+      'Move on the rug',
+      name: 'screen2text4_2',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `Standing on the rug`
+  String get screen2text4_3 {
+    return Intl.message(
+      'Standing on the rug',
+      name: 'screen2text4_3',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `Hold the suit`
+  String get screen2text4_4 {
+    return Intl.message(
+      'Hold the suit',
+      name: 'screen2text4_4',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `Unbalance the competitor`
+  String get screen2text4_5 {
+    return Intl.message(
+      'Unbalance the competitor',
+      name: 'screen2text4_5',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `Falling on the rug`
+  String get screen2text4_6 {
+    return Intl.message(
+      'Falling on the rug',
+      name: 'screen2text4_6',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `First: Greeting:`
+  String get screen2text5 {
+    return Intl.message(
+      'First: Greeting:',
+      name: 'screen2text5',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `Greetings from above (Touch Ray)`
+  String get screen2text6 {
+    return Intl.message(
+      'Greetings from above (Touch Ray)',
+      name: 'screen2text6',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `Falling on the rug`
+  String get screen2text6_1 {
+    return Intl.message(
+      'Falling on the rug',
+      name: 'screen2text6_1',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `The contestants stand face to face`
+  String get screen2text6_2 {
+    return Intl.message(
+      'The contestants stand face to face',
+      name: 'screen2text6_2',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `The feet are together and the insteps are apart`
+  String get screen2text6_3 {
+    return Intl.message(
+      'The feet are together and the insteps are apart',
+      name: 'screen2text6_3',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `The salute is done by leaning the torso forward slightly while moving the hands from the side`
+  String get screen2text6_4 {
+    return Intl.message(
+      'The salute is done by leaning the torso forward slightly while moving the hands from the side',
+      name: 'screen2text6_4',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `Look at the competitor`
+  String get screen2text6_5 {
+    return Intl.message(
+      'Look at the competitor',
+      name: 'screen2text6_5',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `Return to the standing position again`
+  String get screen2text6_6 {
+    return Intl.message(
+      'Return to the standing position again',
+      name: 'screen2text6_6',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `Greetings from below, Cesare`
+  String get screen2text7 {
+    return Intl.message(
+      'Greetings from below, Cesare',
+      name: 'screen2text7',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `From standing, place the left knee on the ground`
+  String get screen2text7_1 {
+    return Intl.message(
+      'From standing, place the left knee on the ground',
+      name: 'screen2text7_1',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `Place the right knee next to the left`
+  String get screen2text7_2 {
+    return Intl.message(
+      'Place the right knee next to the left',
+      name: 'screen2text7_2',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `Place the instep of the left foot on the right`
+  String get screen2text7_3 {
+    return Intl.message(
+      'Place the instep of the left foot on the right',
+      name: 'screen2text7_3',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `Sitting on the legs`
+  String get screen2text7_4 {
+    return Intl.message(
+      'Sitting on the legs',
+      name: 'screen2text7_4',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `The salute is by leaning the torso forward, placing the hands on the mat and looking at the other competitor`
+  String get screen2text7_5 {
+    return Intl.message(
+      'The salute is by leaning the torso forward, placing the hands on the mat and looking at the other competitor',
+      name: 'screen2text7_5',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `Return to the siza position after saluting`
+  String get screen2text7_6 {
+    return Intl.message(
+      'Return to the siza position after saluting',
+      name: 'screen2text7_6',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `Return to crouching position`
+  String get screen2text7_7 {
+    return Intl.message(
+      'Return to crouching position',
+      name: 'screen2text7_7',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `Unscrew the insteps`
+  String get screen2text7_8 {
+    return Intl.message(
+      'Unscrew the insteps',
+      name: 'screen2text7_8',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `The player stands on the right foot first, then the left foot to reach a standing position`
+  String get screen2text7_9 {
+    return Intl.message(
+      'The player stands on the right foot first, then the left foot to reach a standing position',
+      name: 'screen2text7_9',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `Second: Pauses:-`
+  String get screen2text8 {
+    return Intl.message(
+      'Second: Pauses:-',
+      name: 'screen2text8',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `Poses are considered one of the important basics in judo because standing correctly on the mat helps the player attack and defend in an easy way. There are two types of stances: -`
+  String get screen2text9 {
+    return Intl.message(
+      'Poses are considered one of the important basics in judo because standing correctly on the mat helps the player attack and defend in an easy way. There are two types of stances: -',
+      name: 'screen2text9',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `Attack stance (shizen hon tai):-`
+  String get screen2text10 {
+    return Intl.message(
+      'Attack stance (shizen hon tai):-',
+      name: 'screen2text10',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `We do it so that the feet are spaced as wide as the pelvis, and the body is in one straight line, looking forward. In the case of the right foot in front, it is called a right attack stance (Meji Shizen Hon Tai), and when the left foot is in front, it is called a left attack stance (Hidari Shizen Hon Tai), as follows:-`
+  String get screen2text11 {
+    return Intl.message(
+      'We do it so that the feet are spaced as wide as the pelvis, and the body is in one straight line, looking forward. In the case of the right foot in front, it is called a right attack stance (Meji Shizen Hon Tai), and when the left foot is in front, it is called a left attack stance (Hidari Shizen Hon Tai), as follows:-',
+      name: 'screen2text11',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `Defensive stance (Jeju Hon Tae):-`
+  String get screen2text12 {
+    return Intl.message(
+      'Defensive stance (Jeju Hon Tae):-',
+      name: 'screen2text12',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `We do it so that the feet are spaced as wide as the pelvis, and the body is in one straight line, looking forward. In the case of the right foot in front, it is called a right attack stance (Meji Shizen Hon Tai), and when the left foot is in front, it is called a left attack stance (Hidari Shizen Hon Tai), as follows:- `
+  String get screen2text13 {
+    return Intl.message(
+      'We do it so that the feet are spaced as wide as the pelvis, and the body is in one straight line, looking forward. In the case of the right foot in front, it is called a right attack stance (Meji Shizen Hon Tai), and when the left foot is in front, it is called a left attack stance (Hidari Shizen Hon Tai), as follows:- ',
+      name: 'screen2text13',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `Fourth: Holding the suit:-`
+  String get screen2text14 {
+    return Intl.message(
+      'Fourth: Holding the suit:-',
+      name: 'screen2text14',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `There are several ways to hold the suit:-`
+  String get screen2text15 {
+    return Intl.message(
+      'There are several ways to hold the suit:-',
+      name: 'screen2text15',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `The first method: Hold the jacket collar from above with your right hand below the chin and hold the sleeve of the suit with your left hand at the elbow (in the case of a right-handed attack stance)`
+  String get screen2text16 {
+    return Intl.message(
+      'The first method: Hold the jacket collar from above with your right hand below the chin and hold the sleeve of the suit with your left hand at the elbow (in the case of a right-handed attack stance)',
+      name: 'screen2text16',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `The second method: Reversing the previous one (in the case of an offensive stance to the north)`
+  String get screen2text17 {
+    return Intl.message(
+      'The second method: Reversing the previous one (in the case of an offensive stance to the north)',
+      name: 'screen2text17',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `The third method: Hold the suit collar from behind the competitor's neck with the left hand. Hold the sleeve of the suit with the right hand at the elbow joint (in the case of a left attack stance).`
+  String get screen2text18 {
+    return Intl.message(
+      'The third method: Hold the suit collar from behind the competitor\'s neck with the left hand. Hold the sleeve of the suit with the right hand at the elbow joint (in the case of a left attack stance).',
+      name: 'screen2text18',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `The fourth method: Reverse the previous one in the case of a right-handed offensive stance`
+  String get screen2text19 {
+    return Intl.message(
+      'The fourth method: Reverse the previous one in the case of a right-handed offensive stance',
+      name: 'screen2text19',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `Fifth method: The player holds the suit by the collar with both hands, one on the left side and the other on the right side.`
+  String get screen2text20 {
+    return Intl.message(
+      'Fifth method: The player holds the suit by the collar with both hands, one on the left side and the other on the right side.',
+      name: 'screen2text20',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `Method 6: The player grabs the collar of the jacket and the sleeve from one side, and in this case he must use an attack before five seconds have passed, otherwise he will be warned.`
+  String get screen2text21 {
+    return Intl.message(
+      'Method 6: The player grabs the collar of the jacket and the sleeve from one side, and in this case he must use an attack before five seconds have passed, otherwise he will be warned.',
+      name: 'screen2text21',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `There are some tactical aspects that the coach must take into account when teaching the players to hold the suit:-`
+  String get screen2text22 {
+    return Intl.message(
+      'There are some tactical aspects that the coach must take into account when teaching the players to hold the suit:-',
+      name: 'screen2text22',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `1. The grip should be strong and tight, and have the ability to control and control the opponent's movement forward and backward, up and to the sides.`
+  String get screen2text23 {
+    return Intl.message(
+      '1. The grip should be strong and tight, and have the ability to control and control the opponent\'s movement forward and backward, up and to the sides.',
+      name: 'screen2text23',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `2. The grab is considered a very sensitive means of communication that senses any movement the opponent claims to carry out or any attempt made by the opponent to change his direction.`
+  String get screen2text24 {
+    return Intl.message(
+      '2. The grab is considered a very sensitive means of communication that senses any movement the opponent claims to carry out or any attempt made by the opponent to change his direction.',
+      name: 'screen2text24',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `3. The coach must direct the player to the wrong habits when holding the suit so that they do not harm themselves when falling to the ground or hijacking the movement, and explain to them how to get rid of it.`
+  String get screen2text26 {
+    return Intl.message(
+      '3. The coach must direct the player to the wrong habits when holding the suit so that they do not harm themselves when falling to the ground or hijacking the movement, and explain to them how to get rid of it.',
+      name: 'screen2text26',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `4. The coach must take care that there is space between the grip and the player’s body when performing the movement so that this does not cause a loss of a large part of the player’s strength and consequently affect the performance.`
+  String get screen2text25 {
+    return Intl.message(
+      '4. The coach must take care that there is space between the grip and the player’s body when performing the movement so that this does not cause a loss of a large part of the player’s strength and consequently affect the performance.',
+      name: 'screen2text25',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `5. The coach should consider changing the positions of the arms in holding the suit, as there are other ways of holding, for example: holding the jacket with the right hand from the sleeve of the left jacket instead of the collar in front of the chest, or holding the same arm from the collar completely behind the neck, or holding the jacket with the two hands from the bottom of the armpits.`
+  String get screen2text27 {
+    return Intl.message(
+      '5. The coach should consider changing the positions of the arms in holding the suit, as there are other ways of holding, for example: holding the jacket with the right hand from the sleeve of the left jacket instead of the collar in front of the chest, or holding the same arm from the collar completely behind the neck, or holding the jacket with the two hands from the bottom of the armpits.',
+      name: 'screen2text27',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `6. Each movement has its own grip, which differs from one movement to another and from one tactic to another. It also differs according to the height and weight of the player facing him. A tall player differs from a short player, and so on.`
+  String get screen2text28 {
+    return Intl.message(
+      '6. Each movement has its own grip, which differs from one movement to another and from one tactic to another. It also differs according to the height and weight of the player facing him. A tall player differs from a short player, and so on.',
+      name: 'screen2text28',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `7. The coach must train the player on holds that do not require a long time so that he can execute the movement as quickly as possible and the referee does not have to issue a warning to him. Example: Holds that allow the player only 5 seconds, such as grabbing the opponent’s jacket and sleeve in the same direction.`
+  String get screen2text29 {
+    return Intl.message(
+      '7. The coach must train the player on holds that do not require a long time so that he can execute the movement as quickly as possible and the referee does not have to issue a warning to him. Example: Holds that allow the player only 5 seconds, such as grabbing the opponent’s jacket and sleeve in the same direction.',
+      name: 'screen2text29',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `8. It must be noted that the grip of the suit is different in the defensive position than in the offensive position than in the normal position of play, and this varies depending on the defensive and offensive variables while playing with the opponent.`
+  String get screen2text30 {
+    return Intl.message(
+      '8. It must be noted that the grip of the suit is different in the defensive position than in the offensive position than in the normal position of play, and this varies depending on the defensive and offensive variables while playing with the opponent.',
+      name: 'screen2text30',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `Fifth: Ways and trends of imbalance:-`
+  String get screen2text31 {
+    return Intl.message(
+      'Fifth: Ways and trends of imbalance:-',
+      name: 'screen2text31',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `There are several trends in imbalance, which are:`
+  String get screen2text32 {
+    return Intl.message(
+      'There are several trends in imbalance, which are:',
+      name: 'screen2text32',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `Unbalancing the opponent forward.`
+  String get screen2text33_1 {
+    return Intl.message(
+      'Unbalancing the opponent forward.',
+      name: 'screen2text33_1',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `Throwing the opponent off balance backwards`
+  String get screen2text33_2 {
+    return Intl.message(
+      'Throwing the opponent off balance backwards',
+      name: 'screen2text33_2',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `Disrupting the opponent's balance to the right side.`
+  String get screen2text33_3 {
+    return Intl.message(
+      'Disrupting the opponent\'s balance to the right side.',
+      name: 'screen2text33_3',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `Disruption of the competitor's balance to the left side.`
+  String get screen2text33_4 {
+    return Intl.message(
+      'Disruption of the competitor\'s balance to the left side.',
+      name: 'screen2text33_4',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `Unbalancing the opponent forward and to the right side.`
+  String get screen2text33_5 {
+    return Intl.message(
+      'Unbalancing the opponent forward and to the right side.',
+      name: 'screen2text33_5',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `Disrupting the competitor's balance forward and to the left side.`
+  String get screen2text33_6 {
+    return Intl.message(
+      'Disrupting the competitor\'s balance forward and to the left side.',
+      name: 'screen2text33_6',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `Unbalancing the opponent backwards and to the left side.`
+  String get screen2text33_7 {
+    return Intl.message(
+      'Unbalancing the opponent backwards and to the left side.',
+      name: 'screen2text33_7',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `Honoring the opponent's balance behind and to the right side.`
+  String get screen2text33_8 {
+    return Intl.message(
+      'Honoring the opponent\'s balance behind and to the right side.',
+      name: 'screen2text33_8',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `Sixth: Mistakes (Okimi):-`
+  String get screen2text35 {
+    return Intl.message(
+      'Sixth: Mistakes (Okimi):-',
+      name: 'screen2text35',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `These falls are divided into:`
+  String get screen2text36 {
+    return Intl.message(
+      'These falls are divided into:',
+      name: 'screen2text36',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `back fall`
+  String get screen2text37_1 {
+    return Intl.message(
+      'back fall',
+      name: 'screen2text37_1',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `Lateral fall (right and left).`
+  String get screen2text37_2 {
+    return Intl.message(
+      'Lateral fall (right and left).',
+      name: 'screen2text37_2',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `Frontal fall.`
+  String get screen2text37_3 {
+    return Intl.message(
+      'Frontal fall.',
+      name: 'screen2text37_3',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `Circular frontal drop.`
+  String get screen2text37_4 {
+    return Intl.message(
+      'Circular frontal drop.',
+      name: 'screen2text37_4',
+      desc: '',
+      args: [],
+    );
+  }
 }
 
 class AppLocalizationDelegate extends LocalizationsDelegate<S> {

@@ -202,5 +202,104 @@
    "screen3dialog8" : "Not wearing any solid object such as rings, watches or wristbands that expose the competitor to danger.",
    "screen3dialog9" : "Ensuring the safety of the player by conducting periodic medical examinations to ensure that he is free of infectious diseases.",
    "screen3dialog10" : "The rug prepared for training must be constantly clean.",
-   "screen3dialog11" : "The player should not be reckless in using the arts of the game during training or competition."
+   "screen3dialog11" : "The player should not be reckless in using the arts of the game during training or competition.",
+
+   "screen2text1":"The basic positions in judo:-",
+   "screen2text2":"The basic conditions are the backbone of any sports performance that can be achieved in the vicinity of the game, and thus the individual’s training level can be advanced. Without these conditions, we do not wait for any high level to be achieved to reach the championship level, and the basic conditions are considered the basic pillar on which the player depends during his training life ."
+   ,"screen2text3":"The basic positions in judo are:-"
+
+   ,
+   "screen2text4_1":"Greetings",
+   "screen2text4_2":"Move on the rug",
+   
+   
+   "screen2text4_3":"Standing on the rug",
+   
+   "screen2text4_4":"Hold the suit",
+   
+   "screen2text4_5":"Unbalance the competitor",
+   "screen2text4_6":"Falling on the rug",
+   "screen2text5":"First: Greeting:",
+   
+   "screen2text6":"Greetings from above (Touch Ray)",
+   
+   "screen2text6_1":"Falling on the rug",
+   
+   
+   "screen2text6_2":"The contestants stand face to face",
+   
+   "screen2text6_3":"The feet are together and the insteps are apart",
+   
+   
+   "screen2text6_4":"The salute is done by leaning the torso forward slightly while moving the hands from the side",
+   
+   "screen2text6_5":"Look at the competitor",
+   "screen2text6_6":"Return to the standing position again",
+
+   "screen2text7":"Greetings from below, Cesare",
+   "screen2text7_1":"From standing, place the left knee on the ground",
+   "screen2text7_2":"Place the right knee next to the left",
+   "screen2text7_3":"Place the instep of the left foot on the right",
+   "screen2text7_4":"Sitting on the legs",
+   "screen2text7_5":"The salute is by leaning the torso forward, placing the hands on the mat and looking at the other competitor",
+   "screen2text7_6":"Return to the siza position after saluting",
+   "screen2text7_7":"Return to crouching position",
+   
+   "screen2text7_8":"Unscrew the insteps",
+   
+   "screen2text7_9":"The player stands on the right foot first, then the left foot to reach a standing position",
+   
+   "screen2text8":"Second: Pauses:-",
+   "screen2text9":"Poses are considered one of the important basics in judo because standing correctly on the mat helps the player attack and defend in an easy way. There are two types of stances: -",
+   "screen2text10":"Attack stance (shizen hon tai):-",
+   "screen2text11":"We do it so that the feet are spaced as wide as the pelvis, and the body is in one straight line, looking forward. In the case of the right foot in front, it is called a right attack stance (Meji Shizen Hon Tai), and when the left foot is in front, it is called a left attack stance (Hidari Shizen Hon Tai), as follows:-",
+   
+"screen2text12":"Defensive stance (Jeju Hon Tae):-",
+
+"screen2text13":"We do it so that the feet are spaced as wide as the pelvis, and the body is in one straight line, looking forward. In the case of the right foot in front, it is called a right attack stance (Meji Shizen Hon Tai), and when the left foot is in front, it is called a left attack stance (Hidari Shizen Hon Tai), as follows:- ",
+
+"screen2text14":"Fourth: Holding the suit:-",
+
+"screen2text15":"There are several ways to hold the suit:-",
+
+"screen2text16":"The first method: Hold the jacket collar from above with your right hand below the chin and hold the sleeve of the suit with your left hand at the elbow (in the case of a right-handed attack stance)",
+"screen2text17":"The second method: Reversing the previous one (in the case of an offensive stance to the north)",
+"screen2text18":"The third method: Hold the suit collar from behind the competitor's neck with the left hand. Hold the sleeve of the suit with the right hand at the elbow joint (in the case of a left attack stance).",
+"screen2text19":"The fourth method: Reverse the previous one in the case of a right-handed offensive stance",
+"screen2text20":"Fifth method: The player holds the suit by the collar with both hands, one on the left side and the other on the right side.",
+"screen2text21":"Method 6: The player grabs the collar of the jacket and the sleeve from one side, and in this case he must use an attack before five seconds have passed, otherwise he will be warned.",
+"screen2text22":"There are some tactical aspects that the coach must take into account when teaching the players to hold the suit:-"
+
+,"screen2text23":"1. The grip should be strong and tight, and have the ability to control and control the opponent's movement forward and backward, up and to the sides.",
+"screen2text24":"2. The grab is considered a very sensitive means of communication that senses any movement the opponent claims to carry out or any attempt made by the opponent to change his direction.",
+"screen2text26":"3. The coach must direct the player to the wrong habits when holding the suit so that they do not harm themselves when falling to the ground or hijacking the movement, and explain to them how to get rid of it.",
+"screen2text25":"4. The coach must take care that there is space between the grip and the player’s body when performing the movement so that this does not cause a loss of a large part of the player’s strength and consequently affect the performance.",
+"screen2text27":"5. The coach should consider changing the positions of the arms in holding the suit, as there are other ways of holding, for example: holding the jacket with the right hand from the sleeve of the left jacket instead of the collar in front of the chest, or holding the same arm from the collar completely behind the neck, or holding the jacket with the two hands from the bottom of the armpits.",
+"screen2text28":"6. Each movement has its own grip, which differs from one movement to another and from one tactic to another. It also differs according to the height and weight of the player facing him. A tall player differs from a short player, and so on.",
+"screen2text29":"7. The coach must train the player on holds that do not require a long time so that he can execute the movement as quickly as possible and the referee does not have to issue a warning to him. Example: Holds that allow the player only 5 seconds, such as grabbing the opponent’s jacket and sleeve in the same direction.",
+"screen2text30":"8. It must be noted that the grip of the suit is different in the defensive position than in the offensive position than in the normal position of play, and this varies depending on the defensive and offensive variables while playing with the opponent.",
+"screen2text31":"Fifth: Ways and trends of imbalance:-",
+"screen2text32":"There are several trends in imbalance, which are:",
+"screen2text33_1":"Unbalancing the opponent forward.",
+"screen2text33_2":"Throwing the opponent off balance backwards",
+"screen2text33_3":"Disrupting the opponent's balance to the right side.",
+"screen2text33_4":"Disruption of the competitor's balance to the left side.",
+"screen2text33_5":"Unbalancing the opponent forward and to the right side.",
+"screen2text33_6":"Disrupting the competitor's balance forward and to the left side.",
+"screen2text33_7":"Unbalancing the opponent backwards and to the left side.",
+"screen2text33_8":"Honoring the opponent's balance behind and to the right side.",
+"screen2text35":"Sixth: Mistakes (Okimi):-",
+"screen2text36":"These falls are divided into:",
+"screen2text37_1":"back fall",
+"screen2text37_2":"Lateral fall (right and left).",
+"screen2text37_3":"Frontal fall.",
+"screen2text37_4":"Circular frontal drop."
+
+
+
+
+
+
+
+   
 }
