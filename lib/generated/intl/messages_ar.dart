@@ -114,6 +114,135 @@ class MessageLookup extends MessageLookupByLibrary {
             "هـ - الاستخدام الامثل للقوى:-"),
         "screen1subtitle9": MessageLookupByLibrary.simpleMessage(
             "و- الجودو يعمل على تحقيق الجوانب النفسية:-"),
+        "screen2text1": MessageLookupByLibrary.simpleMessage(
+            "الاوضاع الاساسية في رياضة الجودو:-"),
+        "screen2text10": MessageLookupByLibrary.simpleMessage(
+            "الوقفة الهجومية ( شيزن هون تاي):-"),
+        "screen2text11": MessageLookupByLibrary.simpleMessage(
+            "ونقوم بها بحيث تكون القدمين متباعدين باتساع الحوض ويكون الجسم علي استقامة واحدة والنظر للامام وفي حالة وجود القدم اليمني اماماً تسمي وقفة هجومية يمين ( ميجي شيزن هون تاي) وعند وجود القدم اليسري اماماً تسمي وقفة هجومية يسار (هيداري شيزن هون تاي)  كما بالشكل التالي:-"),
+        "screen2text12": MessageLookupByLibrary.simpleMessage(
+            "الوقفة الدفاعية ( جيجو هون تاي):-"),
+        "screen2text13": MessageLookupByLibrary.simpleMessage(
+            "ونقوم بها بحيث تكون القدمين متباعدين باتساع الحوض ويكون الجسم علي استقامة واحدة والنظر للامام وفي حالة وجود القدم اليمني اماماً تسمي وقفة هجومية يمين ( ميجي شيزن هون تاي) وعند وجود القدم اليسري اماماً تسمي وقفة هجومية يسار (هيداري شيزن هون تاي)  كما بالشكل التالي:-"),
+        "screen2text14":
+            MessageLookupByLibrary.simpleMessage("رابعاً:مسك البدلة:-"),
+        "screen2text15": MessageLookupByLibrary.simpleMessage(
+            "هناك عدة طرق لمسك البدلة وهي:-"),
+        "screen2text16": MessageLookupByLibrary.simpleMessage(
+            "الطريقة الاولى: مسك ياقة الجاكت من أعلى باليد اليمين أسفل الذقن ومسك كم البدلة باليد اليسرى من عند الكوع (في حالة الوقفة الهجومية اليمين)"),
+        "screen2text17": MessageLookupByLibrary.simpleMessage(
+            "الطريقة الثانية: عكس السابقة (في حالة الوقفة الهجومية شمال)"),
+        "screen2text18": MessageLookupByLibrary.simpleMessage(
+            "الطريقة الثالثة: مسك ياقة البدلة من خلف رقبة المنافس باليد اليسرى. ومسك كم البدلة باليد اليمني من عند مفصل الكوع (في حالة الوقفة الهجومية شمال)"),
+        "screen2text19": MessageLookupByLibrary.simpleMessage(
+            "الطريقة الرابعة: عكس السابقة في حالة الوقفة الهجومية يمين"),
+        "screen2text2": MessageLookupByLibrary.simpleMessage(
+            "تعتبر الاوضاع الاساسية هى العمود الفقرى لاى اداء رياضى يمكن ان يتحقق فى محيط اللعبة و بذلك يمكن التقدم بالمستوى التدريبى للفرد فبدون هذه الآوضاع لا ننتظر أن يتحقق أى مستوى عالى لنصل إلى مستوى البطولة و تعتبر الآوضاع الأساسية الركيزة الأساسية التى يعتمد عليها اللاعب خلال عمره التدريبي ."),
+        "screen2text20": MessageLookupByLibrary.simpleMessage(
+            "الطريقة الخامسة: يمسك اللاعب البدلة من الياقة بكلتا اليدين واحدة في الناحية اليسرى واخرى في الناحية اليمنى"),
+        "screen2text21": MessageLookupByLibrary.simpleMessage(
+            "الطريقة السادسة: يمسك اللاعب ياقة الجاكيت والكم من جانب واحد وفي هذه الحالة يجب ان يستخدم هجوم قبل مرور خمس ثواني والا تعرض للإنذار"),
+        "screen2text22": MessageLookupByLibrary.simpleMessage(
+            "وهناك بعض الجوانب التكتيكية التى يجب أن يراعيها المدرب عند تعليم اللاعبين مسكة البدلة:-"),
+        "screen2text23": MessageLookupByLibrary.simpleMessage(
+            "1.أن تكون المسكة قوية و محكمة و لها القدرة فى السيطرة و التحكم فى حركة الخصم للامام و الخلف الى أعلى و الى الجانبين."),
+        "screen2text24": MessageLookupByLibrary.simpleMessage(
+            "2.تعتبر المسكة وسيلة إتصال حساسة جدا تشعر بأى حركة يزعم الخصم تنفيذها أو أى محاولة يقوم بها الخصم لتغيير اتجاهه."),
+        "screen2text25": MessageLookupByLibrary.simpleMessage(
+            "4.يجب على المدرب أن يراعى أن يكون هناك فراغ بين المسكة و جسم اللاعب عند أداء الحركة حتى لايتسبب ذلك فى فقدان جزء كبير من قوة اللاعب و تؤثر بالتالى على الاداء"),
+        "screen2text26": MessageLookupByLibrary.simpleMessage(
+            "3.يجب على المدرب أن يوجه اللاعب الى العادات الخاطئة عند مسكة البدلة حتى لايضرون انفسهم عند السقوط على الارض أو خطف الحركة و يوضح لهم كيفية التخلص منها."),
+        "screen2text27": MessageLookupByLibrary.simpleMessage(
+            "5.أن يراعى المدرب تغيير أوضاع الذراعيين فى مسكة البدلة حيث هناك طرق أخرى للمسك مثال ذلك:المسكة باليد اليمنى من كم الجاكت الايسر بدلآمن الياقة أمام الصدر أو المسك بنفس الذراع من الياقة خلف الرقبة تماما أو مسك السترة باليديين من أسفل الابطين."),
+        "screen2text28": MessageLookupByLibrary.simpleMessage(
+            "6.لكل حركة مسكة خاصة بها تختلف من حركة الى أخرى ومن تكتيك لاخر كما أنها تختلف حسب طول ووزن اللاعب الذى يواجهه فاللاعب الطويل يختلف عن اللاعب القصير و هكذا."),
+        "screen2text29": MessageLookupByLibrary.simpleMessage(
+            "7.يجب على المدرب تدريب اللاعب على مسكات التى لاتحتاج الى وقت طويل حتى يمكنة تنفيذ الحركة فى أسرع وقت ولا يضطر الحكم الى توجية انذار اليةمثال ذلك: المسكات التى تتيح للاعب فرصة 5ثوانى فقط مثل مسك البدلة للخصم من السترة و الكم فى نفس الجهه."),
+        "screen2text3": MessageLookupByLibrary.simpleMessage(
+            "والاوضاع الاساسية في رياضة الجودو هي :-"),
+        "screen2text30": MessageLookupByLibrary.simpleMessage(
+            "8.يجب ملاحظة أن تختلف مسكة البدلة فى الوضع الدفاعى عنة فى الوضع الهجومى عنه فى الوضع الطبيعى للعب وهذه تختلف تبعا للمتغيرات الدفاعية و الهجومية أثناء اللعب مع الخصم."),
+        "screen2text31": MessageLookupByLibrary.simpleMessage(
+            "خامساً:طرق واتجاهات اخلال التوازن:-"),
+        "screen2text32": MessageLookupByLibrary.simpleMessage(
+            "وهناك عدة اتجاهات لاخلال التوازن وهي:-"),
+        "screen2text33_1":
+            MessageLookupByLibrary.simpleMessage("إخلال توازن المنافس للأمام"),
+        "screen2text33_2":
+            MessageLookupByLibrary.simpleMessage("إخلال توازن المنافس للخلف."),
+        "screen2text33_3": MessageLookupByLibrary.simpleMessage(
+            "اخلال توازن المنافس للجانب الايمن."),
+        "screen2text33_4": MessageLookupByLibrary.simpleMessage(
+            "إخلال توازن المنافس للجانب الايسر."),
+        "screen2text33_5": MessageLookupByLibrary.simpleMessage(
+            "إخلال توازن المنافس للأمام وللجانب الايمن."),
+        "screen2text33_6": MessageLookupByLibrary.simpleMessage(
+            "إخلال توازن المنافس للأمام وللجانب الايسر."),
+        "screen2text33_7": MessageLookupByLibrary.simpleMessage(
+            "إخلال توازن المنافس للخلف وللجانب الايسر."),
+        "screen2text33_8": MessageLookupByLibrary.simpleMessage(
+            "إجلال توازن المنافس للخلف وللجانب الايمن."),
+        "screen2text35":
+            MessageLookupByLibrary.simpleMessage("سادساً:السقطات(اوكيمي):-"),
+        "screen2text36":
+            MessageLookupByLibrary.simpleMessage("وتنقسم تلك السقطات إلي:-"),
+        "screen2text37_1":
+            MessageLookupByLibrary.simpleMessage("السقطة الخلفية"),
+        "screen2text37_2": MessageLookupByLibrary.simpleMessage(
+            "السقطة الجانبية( يمين و شمال )."),
+        "screen2text37_3":
+            MessageLookupByLibrary.simpleMessage("السقطة الامامية."),
+        "screen2text37_4":
+            MessageLookupByLibrary.simpleMessage("السقطة الامامية الدائرية."),
+        "screen2text4_1": MessageLookupByLibrary.simpleMessage("التحية"),
+        "screen2text4_2":
+            MessageLookupByLibrary.simpleMessage("التحرك على البساط"),
+        "screen2text4_3":
+            MessageLookupByLibrary.simpleMessage("الوقوف على البساط"),
+        "screen2text4_4": MessageLookupByLibrary.simpleMessage("مسك البدلة"),
+        "screen2text4_5":
+            MessageLookupByLibrary.simpleMessage("اخلال توازن المنافس"),
+        "screen2text4_6":
+            MessageLookupByLibrary.simpleMessage("السقوط على البساط"),
+        "screen2text5": MessageLookupByLibrary.simpleMessage("اولا:التحية:-"),
+        "screen2text6":
+            MessageLookupByLibrary.simpleMessage("التحية من أعلي (تاتش ريه)"),
+        "screen2text6_1":
+            MessageLookupByLibrary.simpleMessage("السقوط على البساط"),
+        "screen2text6_2":
+            MessageLookupByLibrary.simpleMessage("يقف المتسابقين وجها لوجه"),
+        "screen2text6_3": MessageLookupByLibrary.simpleMessage(
+            "القدمين مضمومتين والمشطين متباعدين"),
+        "screen2text6_4": MessageLookupByLibrary.simpleMessage(
+            "تكون التحية بميل الجذع للأمام قليلا مع تحريك اليدين من الجانب"),
+        "screen2text6_5":
+            MessageLookupByLibrary.simpleMessage("النظر يكون على المنافس"),
+        "screen2text6_6":
+            MessageLookupByLibrary.simpleMessage("العودة لوضع الوقوف مرة أخرى"),
+        "screen2text7":
+            MessageLookupByLibrary.simpleMessage("التحية من أسفل (سيزارية)"),
+        "screen2text7_1": MessageLookupByLibrary.simpleMessage(
+            "من الوقوف ضع الركبة اليسرى على الارض"),
+        "screen2text7_2": MessageLookupByLibrary.simpleMessage(
+            "ضع الركبة اليمين بجانب اليسرى"),
+        "screen2text7_3": MessageLookupByLibrary.simpleMessage(
+            "ضع مشط القدم اليسرى على اليمين"),
+        "screen2text7_4":
+            MessageLookupByLibrary.simpleMessage("الجلوس بالمقعدة على القدمين"),
+        "screen2text7_5": MessageLookupByLibrary.simpleMessage(
+            "تكون التحية بميل الجذع للأمام مع وضع اليدين على البساط والنظر على المنافس الاخر"),
+        "screen2text7_6": MessageLookupByLibrary.simpleMessage(
+            "الرجوع لوضع السيزا بعد أداء التحية"),
+        "screen2text7_7":
+            MessageLookupByLibrary.simpleMessage("الرجوع لوضع الجثو"),
+        "screen2text7_8":
+            MessageLookupByLibrary.simpleMessage("فك امشاط القدمين"),
+        "screen2text7_9": MessageLookupByLibrary.simpleMessage(
+            "يقف اللاعب على القدم اليمين اولا ثم القدم اليسرى للوصول لوضع الوقوف"),
+        "screen2text8":
+            MessageLookupByLibrary.simpleMessage("ثانياً:الوقفات:-"),
+        "screen2text9": MessageLookupByLibrary.simpleMessage(
+            "تعتبر الوقفات من الاساسيات الهامة في رياضة الجودو لان الوقوف الصحيح علي البساط يساعد اللاعب علي الهجوم والدفاع بطريقة سهلة وهناك نوعان من الوقفات هما :-"),
         "screen3dialog1": MessageLookupByLibrary.simpleMessage(
             "لرياضة الجودو تقاليد عريقة عرفت منذ قديم الزمن ورثت عن اليابانيين القدماء الى جانب قانون ينظم ممارسها ومن هذة التقاليد ما ينص عليها القانون صريحة ومنها مالم ينص عليه القانون ولكنة فى نفس الوقت قوة القانون ومن اهم هذة التقاليد."),
         "screen3dialog10": MessageLookupByLibrary.simpleMessage(

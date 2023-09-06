@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 
 import '../../../../core/utliz/assets.dart';
 import '../../../../core/utliz/stayles.dart';
+import 'package:judo_app/generated/l10n.dart';
 
 class Screen2ViewBody extends StatelessWidget {
   const Screen2ViewBody({super.key});
@@ -17,7 +18,7 @@ class Screen2ViewBody extends StatelessWidget {
             crossAxisAlignment: CrossAxisAlignment.stretch,
             children: [
               Text(
-                'الاوضاع الاساسية في رياضة الجودو:-',
+                S.of(context).screen2text1,
                 textAlign: TextAlign.right,
                 style: Styles.textStyle28,
               ),
@@ -25,14 +26,14 @@ class Screen2ViewBody extends StatelessWidget {
                 height: 5,
               ),
               Text(
-                'تعتبر الاوضاع الاساسية هى العمود الفقرى لاى اداء رياضى يمكن ان يتحقق فى محيط اللعبة و بذلك يمكن التقدم بالمستوى التدريبى للفرد فبدون هذه الآوضاع لا ننتظر أن يتحقق أى مستوى عالى لنصل إلى مستوى البطولة و تعتبر الآوضاع الأساسية الركيزة الأساسية التى يعتمد عليها اللاعب خلال عمره التدريبي .',
+                S.of(context).screen2text2,
                 style: Styles.textStyle20,
               ),
               const SizedBox(
                 height: 20,
               ),
               Text(
-                'والاوضاع الاساسية في رياضة الجودو هي :-',
+                S.of(context).screen2text3,
                 textAlign: TextAlign.right,
                 style: Styles.textStyle28,
               ),
@@ -40,19 +41,19 @@ class Screen2ViewBody extends StatelessWidget {
                 height: 5,
               ),
               Text(
-                '•	التحية\n•	التحرك على البساط\n•	الوقوف على البساط\n•	مسك البدلة•	اخلال توازن المنافس\n•	السقوط على البساط',
+                '•	${S.of(context).screen2text4_1}\n• ${S.of(context).screen2text4_2} \n•	${S.of(context).screen2text4_3}\n• ${S.of(context).screen2text4_4} • ${S.of(context).screen2text4_5} • \n•	${S.of(context).screen2text4_6}',
                 style: Styles.textStyle20,
               ),
               const SizedBox(
                 height: 20,
               ),
               Text(
-                'اولا:التحية:-',
+                S.of(context).screen2text5,
                 textAlign: TextAlign.right,
                 style: Styles.textStyle28,
               ),
               Text(
-                'التحية من أعلي ( تاتش ريه )',
+                S.of(context).screen2text6,
                 textAlign: TextAlign.right,
                 style: Styles.textStyle28,
               ),
@@ -60,14 +61,14 @@ class Screen2ViewBody extends StatelessWidget {
                 height: 5,
               ),
               Text(
-                '• يقف المتسابقين وجها لوجه.\n•	الذراعين بجانب الجسم.\n•	القدمين مضمومتين والمشطين متباعدين.\n•	تكون التحية بميل الجذع للأمام قليلا مع تحريك اليدين من الجانب \n•	النظر يكون على المنافس. \n•	العودة لوضع الوقوف مرة أخرى.',
+                '• ${S.of(context).screen2text6_1}\n•	${S.of(context).screen2text6_2}\n•	${S.of(context).screen2text6_3}\n• ${S.of(context).screen2text6_4} \n•	${S.of(context).screen2text6_5} \n•	${S.of(context).screen2text6_6}',
                 style: Styles.textStyle20,
               ),
               const SizedBox(
                 height: 20,
               ),
               Text(
-                'التحية من أسفل (سيزارية)',
+               S.of(context).screen2text7,
                 textAlign: TextAlign.right,
                 style: Styles.textStyle28,
               ),
@@ -75,14 +76,14 @@ class Screen2ViewBody extends StatelessWidget {
                 height: 5,
               ),
               Text(
-                '• من الوقوف ضع الركبة اليسرى على الارض.\n•	ضع الركبة اليمين بجانب اليسرى.\n•	ضع مشط القدم اليسرى على اليمين. \n•	الجلوس بالمقعدة على القدمين. \n•	تكون التحية بميل الجذع للأمام مع وضع اليدين على البساط والنظر على المنافس الاخر. \n•	الرجوع لوضع السيزا بعد أداء التحية . \n•	الرجوع لوضع الجثو. \n•	فك امشاط القدمين. \n•	يقف اللاعب على القدم اليمين اولا ثم القدم اليسرى للوصول لوضع الوقوف.',
+                '• ${S.of(context).screen2text7_1}\n•	${S.of(context).screen2text7_2}\n•	${S.of(context).screen2text7_3} \n•	${S.of(context).screen2text7_4} \n•	 ${S.of(context).screen2text7_5} \n•	${S.of(context).screen2text7_6} \n•	${S.of(context).screen2text7_7} \n•	${S.of(context).screen2text7_8} \n•	${S.of(context).screen2text7_9}',
                 style: Styles.textStyle20,
               ),
               const SizedBox(
                 height: 20,
               ),
               Text(
-                'ثانياً:الوقفات:- ',
+                S.of(context).screen2text8,
                 textAlign: TextAlign.right,
                 style: Styles.textStyle28,
               ),
@@ -90,16 +91,16 @@ class Screen2ViewBody extends StatelessWidget {
                 height: 5,
               ),
               Text(
-                'تعتبر الوقفات من الاساسيات الهامة في رياضة الجودو لان الوقوف الصحيح علي البساط يساعد اللاعب علي الهجوم والدفاع بطريقة سهلة وهناك نوعان من الوقفات هما :-',
+                S.of(context).screen2text9,
                 style: Styles.textStyle20,
               ),
               Text(
-                'الوقفة الهجومية ( شيزن هون تاي):- ',
+                S.of(context).screen2text10,
                 textAlign: TextAlign.right,
                 style: Styles.textStyle28,
               ),
               Text(
-                'ونقوم بها بحيث تكون القدمين متباعدين باتساع الحوض ويكون الجسم علي استقامة واحدة والنظر للامام وفي حالة وجود القدم اليمني اماماً تسمي وقفة هجومية يمين ( ميجي شيزن هون تاي) وعند وجود القدم اليسري اماماً تسمي وقفة هجومية يسار (هيداري شيزن هون تاي)  كما بالشكل التالي:-',
+                S.of(context).screen2text11,
                 style: Styles.textStyle20,
               ),
               const SizedBox(
@@ -114,7 +115,7 @@ class Screen2ViewBody extends StatelessWidget {
                 height: 20,
               ),
               Text(
-                'الوقفة الدفاعية ( جيجو هون تاي):- ',
+  S.of(context).screen2text12,
                 textAlign: TextAlign.right,
                 style: Styles.textStyle28,
               ),
@@ -122,7 +123,7 @@ class Screen2ViewBody extends StatelessWidget {
                 height: 5,
               ),
               Text(
-                'ونقوم بها بحيث تكون القدمين متباعدين باتساع الحوض ويكون الجسم علي استقامة واحدة والنظر للامام وفي حالة وجود القدم اليمني اماماً تسمي وقفة هجومية يمين ( ميجي شيزن هون تاي) وعند وجود القدم اليسري اماماً تسمي وقفة هجومية يسار (هيداري شيزن هون تاي)  كما بالشكل التالي:-',
+                  S.of(context).screen2text13,
                 style: Styles.textStyle20,
               ),
               const SizedBox(
@@ -137,159 +138,157 @@ class Screen2ViewBody extends StatelessWidget {
                 height: 20,
               ),
               Text(
-                'رابعاً:مسك البدلة:-',
-                textAlign: TextAlign.right,
+  S.of(context).screen2text14,                textAlign: TextAlign.right,
                 style: Styles.textStyle28,
               ),
               const SizedBox(
                 height: 5,
               ),
               Text(
-                'هناك عدة طرق لمسك البدلة وهي:-',
+                  S.of(context).screen2text15,
                 style: Styles.textStyle20,
               ),
               const SizedBox(
                 height: 5,
               ),
               Text(
-                'الطريقة الاولى: مسك ياقة الجاكت من أعلى باليد اليمين أسفل الذقن ومسك كم البدلة باليد اليسرى من عند الكوع (في حالة الوقفة الهجومية اليمين).',
+                  S.of(context).screen2text16,
                 style: Styles.textStyle20,
               ),
               const SizedBox(
                 height: 5,
               ),
               Text(
-                'الطريقة الثانية: عكس السابقة (في حالة الوقفة الهجومية شمال).',
+                  S.of(context).screen2text17,
                 style: Styles.textStyle20,
               ),
               const SizedBox(
                 height: 5,
               ),
               Text(
-                'الطريقة الثالثة: مسك ياقة البدلة من خلف رقبة المنافس باليد اليسرى. ومسك كم البدلة باليد اليمني من عند مفصل الكوع (في حالة الوقفة الهجومية شمال).',
+                  S.of(context).screen2text18,
                 style: Styles.textStyle20,
               ),
               const SizedBox(
                 height: 5,
               ),
               Text(
-                'الطريقة الرابعة: عكس السابقة في حالة الوقفة الهجومية يمين.',
+                  S.of(context).screen2text19,
                 style: Styles.textStyle20,
               ),
               const SizedBox(
                 height: 5,
               ),
               Text(
-                'الطريقة الخامسة: يمسك اللاعب البدلة من الياقة بكلتا اليدين واحدة في الناحية اليسرى واخرى في الناحية اليمنى.',
+                  S.of(context).screen2text20,
                 style: Styles.textStyle20,
               ),
               const SizedBox(
                 height: 5,
               ),
               Text(
-                'الطريقة السادسة: يمسك اللاعب ياقة الجاكيت والكم من جانب واحد وفي هذه الحالة يجب ان يستخدم هجوم قبل مرور خمس ثواني والا تعرض للإنذار.',
+                  S.of(context).screen2text21,
                 style: Styles.textStyle20,
               ),
               const SizedBox(
                 height: 20,
               ),
               Text(
-                'وهناك بعض الجوانب التكتيكية التى يجب أن يراعيها المدرب عند تعليم اللاعبين مسكة البدلة:-',
-                style: Styles.textStyle28,
+  S.of(context).screen2text22,                style: Styles.textStyle28,
               ),
               const SizedBox(
                 height: 5,
               ),
               Text(
-                '1.	أن تكون المسكة قوية و محكمة و لها القدرة فى السيطرة و التحكم فى حركة الخصم للامام و الخلف الى أعلى و الى الجانبين.',
+                S.of(context).screen2text23,  
                 style: Styles.textStyle20,
               ),
               const SizedBox(
                 height: 5,
               ),
               Text(
-                '2.	تعتبر المسكة وسيلة إتصال حساسة جدا تشعر بأى حركة يزعم الخصم تنفيذها أو أى محاولة يقوم بها الخصم لتغيير اتجاهه.',
+                S.of(context).screen2text24,  
                 style: Styles.textStyle20,
               ),
               const SizedBox(
                 height: 5,
               ),
               Text(
-                '3.	يجب على المدرب أن يوجه اللاعب الى العادات الخاطئة عند مسكة البدلة حتى لايضرون انفسهم عند السقوط على الارض أو خطف الحركة و يوضح لهم كيفية التخلص منها .',
+S.of(context).screen2text25,                  style: Styles.textStyle20,
+              ),
+              const SizedBox(
+                height: 5,
+              ),
+              Text(
+                S.of(context).screen2text26,  
                 style: Styles.textStyle20,
               ),
               const SizedBox(
                 height: 5,
               ),
               Text(
-                '4.	يجب على المدرب أن يراعى أن يكون هناك فراغ بين المسكة و جسم اللاعب عند أداء الحركة حتى لايتسبب ذلك فى فقدان جزء كبير من قوة اللاعب و تؤثر بالتالى على الاداء .',
+                S.of(context).screen2text27,  
                 style: Styles.textStyle20,
               ),
               const SizedBox(
                 height: 5,
               ),
               Text(
-                '5.	أن يراعى المدرب تغيير أوضاع الذراعيين فى مسكة البدلة حيث هناك طرق أخرى للمسك مثال ذلك:المسكة باليد اليمنى من كم الجاكت الايسر بدلآمن الياقة أمام الصدر أو المسك بنفس الذراع من الياقة خلف الرقبة تماما أو مسك السترة باليديين من أسفل الابطين.',
+                S.of(context).screen2text28,  
                 style: Styles.textStyle20,
               ),
               const SizedBox(
                 height: 5,
               ),
               Text(
-                '6.	لكل حركة مسكة خاصة بها تختلف من حركة الى أخرى ومن تكتيك لاخر كما أنها تختلف حسب طول ووزن اللاعب الذى يواجهه فاللاعب الطويل يختلف عن اللاعب القصير و هكذا.',
+                S.of(context).screen2text29,  
                 style: Styles.textStyle20,
               ),
               const SizedBox(
                 height: 5,
               ),
               Text(
-                '7.	يجب على المدرب تدريب اللاعب على مسكات التى لاتحتاج الى وقت طويل حتى يمكنة تنفيذ الحركة فى أسرع وقت ولا يضطر الحكم الى توجية انذار اليةمثال ذلك: المسكات التى تتيح للاعب فرصة 5ثوانى فقط مثل مسك البدلة للخصم من السترة و الكم فى نفس الجهه.',
-                style: Styles.textStyle20,
-              ),
-              const SizedBox(
-                height: 5,
-              ),
-              Text(
-                '8.	يجب ملاحظة أن تختلف مسكة البدلة فى الوضع الدفاعى عنة فى الوضع الهجومى عنه فى الوضع الطبيعى للعب وهذه تختلف تبعا للمتغيرات الدفاعية و الهجومية أثناء اللعب مع الخصم.',
+                S.of(context).screen2text30,  
                 style: Styles.textStyle20,
               ),
               const SizedBox(
                 height: 20,
               ),
               Text(
-                'خامساً:طرق واتجاهات اخلال التوازن:-',
+                S.of(context).screen2text31,  
                 style: Styles.textStyle28,
               ),
               const SizedBox(
                 height: 5,
               ),
               Text(
-                'وهناك عدة اتجاهات لاخلال التوازن وهي:-',
+                S.of(context).screen2text32,  
                 style: Styles.textStyle28,
               ),
               const SizedBox(
                 height: 5,
               ),
               Text(
-                '• إخلال توازن المنافس للأمام.\n•	إخلال توازن المنافس للخلف. \n•	اخلال توازن المنافس للجانب الايمن. \n• إخلال توازن المنافس للجانب الايسر. \n•	إخلال توازن المنافس للأمام وللجانب الايمن. \n•	إخلال توازن المنافس للأمام وللجانب الايسر. \n•	إخلال توازن المنافس للخلف وللجانب الايسر. \n•	إجلال توازن المنافس للخلف وللجانب الايمن.',
+                '• ${S.of(context).screen2text33_1}\n•	${S.of(context).screen2text33_2} \n•	${S.of(context).screen2text33_3} \n• ${S.of(context).screen2text33_4} \n•	${S.of(context).screen2text33_5}. \n•	${S.of(context).screen2text33_7} \n•	${S.of(context).screen2text33_8}',
                 style: Styles.textStyle20,
               ),
               Text(
-                'سادساً:السقطات(اوكيمي):-',
+                S.of(context).screen2text35,
                 style: Styles.textStyle28,
               ),
               const SizedBox(
                 height: 5,
               ),
               Text(
-                'وتنقسم تلك السقطات إلي:-',
+                                S.of(context).screen2text36,
+
                 style: Styles.textStyle28,
               ),
               const SizedBox(
                 height: 5,
               ),
               Text(
-                '• السقطة الخلفية . \n•	السقطة الجانبية( يمين و شمال ). \n•	السقطة الامامية. \n•	 السقطة الامامية الدائرية.',
+                '• ${S.of(context).screen2text37_1} \n•	${S.of(context).screen2text37_2} \n•	${S.of(context).screen2text37_3} \n•	${S.of(context).screen2text37_4}',
                 style: Styles.textStyle20,
               ),
             ],
