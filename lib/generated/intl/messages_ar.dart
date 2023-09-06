@@ -27,7 +27,7 @@ class MessageLookup extends MessageLookupByLibrary {
         "hometitle1":
             MessageLookupByLibrary.simpleMessage("تاريخ رياضة الجودو "),
         "hometitle2": MessageLookupByLibrary.simpleMessage(
-            "الاوضاع الاساسية في رياضية الجودو\'"),
+            "الاوضاع الاساسية في رياضية الجودو"),
         "hometitle3":
             MessageLookupByLibrary.simpleMessage("اداب وتقاليد رياضة الجودو"),
         "hometitle4": MessageLookupByLibrary.simpleMessage(

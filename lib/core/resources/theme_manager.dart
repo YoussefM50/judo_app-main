@@ -44,6 +44,8 @@ ThemeData getApplicationTheme() {
             backgroundColor: ColorManager.primary,
             shape: RoundedRectangleBorder(
                 borderRadius: BorderRadius.circular(AppSize.s12)))),
+    floatingActionButtonTheme:
+        FloatingActionButtonThemeData(backgroundColor: ColorManager.primary),
     // text theme
     textTheme: TextTheme(
         displayLarge:

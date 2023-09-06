@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:judo_app/features/home/presentation/views/widgets/custom_appbar.dart';
+import 'package:judo_app/features/home/presentation/views/widgets/custom_floating_action_button.dart';
 import 'package:judo_app/features/home/presentation/views/widgets/screens_list_view.dart';
 
 import '../../../../../core/resources/color_manager.dart';
@@ -11,6 +12,7 @@ class HomeViewBody extends StatelessWidget {
   Widget build(BuildContext context) {
     return SafeArea(
       child: Scaffold(
+        floatingActionButton: const CustomFlaotingActionButton(),
         body: CustomScrollView(
           // physics:const BouncingScrollPhysics(),
           slivers: [
