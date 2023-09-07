@@ -140,11 +140,11 @@ class S {
     );
   }
 
-  /// `student : Ahmed Mostafa`
-  String get students {
+  /// `coach : Ahmed Mostafa Mostafa \n coach : Ahmed Nabel Mohammed`
+  String get coaches {
     return Intl.message(
-      'student : Ahmed Mostafa',
-      name: 'students',
+      'coach : Ahmed Mostafa Mostafa \n coach : Ahmed Nabel Mohammed',
+      name: 'coaches',
       desc: '',
       args: [],
     );

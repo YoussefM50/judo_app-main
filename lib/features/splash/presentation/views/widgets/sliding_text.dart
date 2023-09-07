@@ -30,7 +30,7 @@ class SlidingText extends StatelessWidget {
                   style: Styles.textStyle18,
                 ),
                 Text(
-                  S.of(context).students,
+                  S.of(context).coaches,
                   textAlign: TextAlign.center,
                   style: Styles.textStyle18,
                 ),
