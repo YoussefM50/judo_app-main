@@ -23,6 +23,8 @@ class MessageLookup extends MessageLookupByLibrary {
   final messages = _notInlinedMessages(_notInlinedMessages);
   static Map<String, Function> _notInlinedMessages(_) => <String, Function>{
         "appbartitle": MessageLookupByLibrary.simpleMessage("Judo"),
+        "coaches": MessageLookupByLibrary.simpleMessage(
+            "coach : Ahmed Mostafa Mostafa \n coach : Ahmed Nabel Mohammed"),
         "doctors": MessageLookupByLibrary.simpleMessage("Dr/ Anwar Khatab"),
         "hometitle1": MessageLookupByLibrary.simpleMessage("History of Judo"),
         "hometitle2":
@@ -484,8 +486,6 @@ class MessageLookup extends MessageLookupByLibrary {
         "splashscreendialog1":
             MessageLookupByLibrary.simpleMessage("Designed by"),
         "splashscreendialog2": MessageLookupByLibrary.simpleMessage(""),
-        "students":
-            MessageLookupByLibrary.simpleMessage("student : Ahmed Mostafa"),
         "title": MessageLookupByLibrary.simpleMessage("Hello...")
       };
 }
